@@ -1,3523 +1,3523 @@
 [
   {
-    "Name": "Ja'Marr Chase",
-    "Team": "CIN",
-    "Position": "WR",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "Ja'Marr Chase",
+    "team": "CIN",
+    "position": "WR",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "Saquon Barkley",
-    "Team": "PHI",
-    "Position": "RB",
-    "Bye Week": 9,
-    "Rookie": "no"
+    "name": "Saquon Barkley",
+    "team": "PHI",
+    "position": "RB",
+    "byeWeek": 9,
+    "rookie": "no"
   },
   {
-    "Name": "Bijan Robinson",
-    "Team": "ATL",
-    "Position": "RB",
-    "Bye Week": 5,
-    "Rookie": "no"
+    "name": "Bijan Robinson",
+    "team": "ATL",
+    "position": "RB",
+    "byeWeek": 5,
+    "rookie": "no"
   },
   {
-    "Name": "Justin Jefferson",
-    "Team": "MIN",
-    "Position": "WR",
-    "Bye Week": 6,
-    "Rookie": "no"
+    "name": "Justin Jefferson",
+    "team": "MIN",
+    "position": "WR",
+    "byeWeek": 6,
+    "rookie": "no"
   },
   {
-    "Name": "Jahmyr Gibbs",
-    "Team": "DET",
-    "Position": "RB",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Jahmyr Gibbs",
+    "team": "DET",
+    "position": "RB",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "CeeDee Lamb",
-    "Team": "DAL",
-    "Position": "WR",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "CeeDee Lamb",
+    "team": "DAL",
+    "position": "WR",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "Derrick Henry",
-    "Team": "BAL",
-    "Position": "RB",
-    "Bye Week": 7,
-    "Rookie": "no"
+    "name": "Derrick Henry",
+    "team": "BAL",
+    "position": "RB",
+    "byeWeek": 7,
+    "rookie": "no"
   },
   {
-    "Name": "Puka Nacua",
-    "Team": "LAR",
-    "Position": "WR",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Puka Nacua",
+    "team": "LAR",
+    "position": "WR",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Nico Collins",
-    "Team": "HOU",
-    "Position": "WR",
-    "Bye Week": 6,
-    "Rookie": "no"
+    "name": "Nico Collins",
+    "team": "HOU",
+    "position": "WR",
+    "byeWeek": 6,
+    "rookie": "no"
   },
   {
-    "Name": "Malik Nabers",
-    "Team": "NYG",
-    "Position": "WR",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "Malik Nabers",
+    "team": "NYG",
+    "position": "WR",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Brian Thomas Jr.",
-    "Team": "JAC",
-    "Position": "WR",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Brian Thomas Jr.",
+    "team": "JAC",
+    "position": "WR",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Ashton Jeanty",
-    "Team": "LV",
-    "Position": "RB",
-    "Bye Week": 8,
-    "Rookie": "yes"
+    "name": "Ashton Jeanty",
+    "team": "LV",
+    "position": "RB",
+    "byeWeek": 8,
+    "rookie": "yes"
   },
   {
-    "Name": "Amon-Ra St. Brown",
-    "Team": "DET",
-    "Position": "WR",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Amon-Ra St. Brown",
+    "team": "DET",
+    "position": "WR",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Jonathan Taylor",
-    "Team": "IND",
-    "Position": "RB",
-    "Bye Week": 11,
-    "Rookie": "no"
+    "name": "Jonathan Taylor",
+    "team": "IND",
+    "position": "RB",
+    "byeWeek": 11,
+    "rookie": "no"
   },
   {
-    "Name": "A.J. Brown",
-    "Team": "PHI",
-    "Position": "WR",
-    "Bye Week": 9,
-    "Rookie": "no"
+    "name": "A.J. Brown",
+    "team": "PHI",
+    "position": "WR",
+    "byeWeek": 9,
+    "rookie": "no"
   },
   {
-    "Name": "Josh Jacobs",
-    "Team": "GB",
-    "Position": "RB",
-    "Bye Week": 5,
-    "Rookie": "no"
+    "name": "Josh Jacobs",
+    "team": "GB",
+    "position": "RB",
+    "byeWeek": 5,
+    "rookie": "no"
   },
   {
-    "Name": "Christian McCaffrey",
-    "Team": "SF",
-    "Position": "RB",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "Christian McCaffrey",
+    "team": "SF",
+    "position": "RB",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Drake London",
-    "Team": "ATL",
-    "Position": "WR",
-    "Bye Week": 5,
-    "Rookie": "no"
+    "name": "Drake London",
+    "team": "ATL",
+    "position": "WR",
+    "byeWeek": 5,
+    "rookie": "no"
   },
   {
-    "Name": "George Kittle",
-    "Team": "SF",
-    "Position": "TE",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "George Kittle",
+    "team": "SF",
+    "position": "TE",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "De'Von Achane",
-    "Team": "MIA",
-    "Position": "RB",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "De'Von Achane",
+    "team": "MIA",
+    "position": "RB",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Bucky Irving",
-    "Team": "TB",
-    "Position": "RB",
-    "Bye Week": 9,
-    "Rookie": "no"
+    "name": "Bucky Irving",
+    "team": "TB",
+    "position": "RB",
+    "byeWeek": 9,
+    "rookie": "no"
   },
   {
-    "Name": "Kyren Williams",
-    "Team": "LAR",
-    "Position": "RB",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Kyren Williams",
+    "team": "LAR",
+    "position": "RB",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Ladd McConkey",
-    "Team": "LAC",
-    "Position": "WR",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Ladd McConkey",
+    "team": "LAC",
+    "position": "WR",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Brock Bowers",
-    "Team": "LV",
-    "Position": "TE",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Brock Bowers",
+    "team": "LV",
+    "position": "TE",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Josh Allen",
-    "Team": "BUF",
-    "Position": "QB",
-    "Bye Week": 7,
-    "Rookie": "no"
+    "name": "Josh Allen",
+    "team": "BUF",
+    "position": "QB",
+    "byeWeek": 7,
+    "rookie": "no"
   },
   {
-    "Name": "Lamar Jackson",
-    "Team": "BAL",
-    "Position": "QB",
-    "Bye Week": 7,
-    "Rookie": "no"
+    "name": "Lamar Jackson",
+    "team": "BAL",
+    "position": "QB",
+    "byeWeek": 7,
+    "rookie": "no"
   },
   {
-    "Name": "Tee Higgins",
-    "Team": "CIN",
-    "Position": "WR",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "Tee Higgins",
+    "team": "CIN",
+    "position": "WR",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "James Cook",
-    "Team": "BUF",
-    "Position": "RB",
-    "Bye Week": 7,
-    "Rookie": "no"
+    "name": "James Cook",
+    "team": "BUF",
+    "position": "RB",
+    "byeWeek": 7,
+    "rookie": "no"
   },
   {
-    "Name": "Mike Evans",
-    "Team": "TB",
-    "Position": "WR",
-    "Bye Week": 9,
-    "Rookie": "no"
+    "name": "Mike Evans",
+    "team": "TB",
+    "position": "WR",
+    "byeWeek": 9,
+    "rookie": "no"
   },
   {
-    "Name": "Jayden Daniels",
-    "Team": "WAS",
-    "Position": "QB",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Jayden Daniels",
+    "team": "WAS",
+    "position": "QB",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Trey McBride",
-    "Team": "ARI",
-    "Position": "TE",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Trey McBride",
+    "team": "ARI",
+    "position": "TE",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Terry McLaurin",
-    "Team": "WAS",
-    "Position": "WR",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Terry McLaurin",
+    "team": "WAS",
+    "position": "WR",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Tyreek Hill",
-    "Team": "MIA",
-    "Position": "WR",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Tyreek Hill",
+    "team": "MIA",
+    "position": "WR",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Davante Adams",
-    "Team": "LAR",
-    "Position": "WR",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Davante Adams",
+    "team": "LAR",
+    "position": "WR",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Chase Brown",
-    "Team": "CIN",
-    "Position": "RB",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "Chase Brown",
+    "team": "CIN",
+    "position": "RB",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "Jaxon Smith-Njigba",
-    "Team": "SEA",
-    "Position": "WR",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Jaxon Smith-Njigba",
+    "team": "SEA",
+    "position": "WR",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Breece Hall",
-    "Team": "NYJ",
-    "Position": "RB",
-    "Bye Week": 9,
-    "Rookie": "no"
+    "name": "Breece Hall",
+    "team": "NYJ",
+    "position": "RB",
+    "byeWeek": 9,
+    "rookie": "no"
   },
   {
-    "Name": "Jalen Hurts",
-    "Team": "PHI",
-    "Position": "QB",
-    "Bye Week": 9,
-    "Rookie": "no"
+    "name": "Jalen Hurts",
+    "team": "PHI",
+    "position": "QB",
+    "byeWeek": 9,
+    "rookie": "no"
   },
   {
-    "Name": "Rashee Rice",
-    "Team": "KC",
-    "Position": "WR",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "Rashee Rice",
+    "team": "KC",
+    "position": "WR",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "Garrett Wilson",
-    "Team": "NYJ",
-    "Position": "WR",
-    "Bye Week": 9,
-    "Rookie": "no"
+    "name": "Garrett Wilson",
+    "team": "NYJ",
+    "position": "WR",
+    "byeWeek": 9,
+    "rookie": "no"
   },
   {
-    "Name": "Marvin Harrison Jr.",
-    "Team": "ARI",
-    "Position": "WR",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Marvin Harrison Jr.",
+    "team": "ARI",
+    "position": "WR",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Kenneth Walker III",
-    "Team": "SEA",
-    "Position": "RB",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Kenneth Walker III",
+    "team": "SEA",
+    "position": "RB",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Chuba Hubbard",
-    "Team": "CAR",
-    "Position": "RB",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "Chuba Hubbard",
+    "team": "CAR",
+    "position": "RB",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "James Conner",
-    "Team": "ARI",
-    "Position": "RB",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "James Conner",
+    "team": "ARI",
+    "position": "RB",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Joe Mixon",
-    "Team": "HOU",
-    "Position": "RB",
-    "Bye Week": 6,
-    "Rookie": "no"
+    "name": "Joe Mixon",
+    "team": "HOU",
+    "position": "RB",
+    "byeWeek": 6,
+    "rookie": "no"
   },
   {
-    "Name": "Joe Burrow",
-    "Team": "CIN",
-    "Position": "QB",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "Joe Burrow",
+    "team": "CIN",
+    "position": "QB",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "DK Metcalf",
-    "Team": "PIT",
-    "Position": "WR",
-    "Bye Week": 5,
-    "Rookie": "no"
+    "name": "DK Metcalf",
+    "team": "PIT",
+    "position": "WR",
+    "byeWeek": 5,
+    "rookie": "no"
   },
   {
-    "Name": "Alvin Kamara",
-    "Team": "NO",
-    "Position": "RB",
-    "Bye Week": 11,
-    "Rookie": "no"
+    "name": "Alvin Kamara",
+    "team": "NO",
+    "position": "RB",
+    "byeWeek": 11,
+    "rookie": "no"
   },
   {
-    "Name": "Jameson Williams",
-    "Team": "DET",
-    "Position": "WR",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Jameson Williams",
+    "team": "DET",
+    "position": "WR",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "DJ Moore",
-    "Team": "CHI",
-    "Position": "WR",
-    "Bye Week": 5,
-    "Rookie": "no"
+    "name": "DJ Moore",
+    "team": "CHI",
+    "position": "WR",
+    "byeWeek": 5,
+    "rookie": "no"
   },
   {
-    "Name": "Zay Flowers",
-    "Team": "BAL",
-    "Position": "WR",
-    "Bye Week": 7,
-    "Rookie": "no"
+    "name": "Zay Flowers",
+    "team": "BAL",
+    "position": "WR",
+    "byeWeek": 7,
+    "rookie": "no"
   },
   {
-    "Name": "Courtland Sutton",
-    "Team": "DEN",
-    "Position": "WR",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Courtland Sutton",
+    "team": "DEN",
+    "position": "WR",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Omarion Hampton",
-    "Team": "LAC",
-    "Position": "RB",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Omarion Hampton",
+    "team": "LAC",
+    "position": "RB",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Sam LaPorta",
-    "Team": "DET",
-    "Position": "TE",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Sam LaPorta",
+    "team": "DET",
+    "position": "TE",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "David Montgomery",
-    "Team": "DET",
-    "Position": "RB",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "David Montgomery",
+    "team": "DET",
+    "position": "RB",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Xavier Worthy",
-    "Team": "KC",
-    "Position": "WR",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "Xavier Worthy",
+    "team": "KC",
+    "position": "WR",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "DeVonta Smith",
-    "Team": "PHI",
-    "Position": "WR",
-    "Bye Week": 9,
-    "Rookie": "no"
+    "name": "DeVonta Smith",
+    "team": "PHI",
+    "position": "WR",
+    "byeWeek": 9,
+    "rookie": "no"
   },
   {
-    "Name": "D'Andre Swift",
-    "Team": "CHI",
-    "Position": "RB",
-    "Bye Week": 5,
-    "Rookie": "no"
+    "name": "D'Andre Swift",
+    "team": "CHI",
+    "position": "RB",
+    "byeWeek": 5,
+    "rookie": "no"
   },
   {
-    "Name": "Calvin Ridley",
-    "Team": "TEN",
-    "Position": "WR",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "Calvin Ridley",
+    "team": "TEN",
+    "position": "WR",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "Patrick Mahomes II",
-    "Team": "KC",
-    "Position": "QB",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "Patrick Mahomes II",
+    "team": "KC",
+    "position": "QB",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "RJ Harvey",
-    "Team": "DEN",
-    "Position": "RB",
-    "Bye Week": 12,
-    "Rookie": "yes"
+    "name": "RJ Harvey",
+    "team": "DEN",
+    "position": "RB",
+    "byeWeek": 12,
+    "rookie": "yes"
   },
   {
-    "Name": "TreVeyon Henderson",
-    "Team": "NE",
-    "Position": "RB",
-    "Bye Week": 14,
-    "Rookie": "yes"
+    "name": "TreVeyon Henderson",
+    "team": "NE",
+    "position": "RB",
+    "byeWeek": 14,
+    "rookie": "yes"
   },
   {
-    "Name": "Kaleb Johnson",
-    "Team": "PIT",
-    "Position": "RB",
-    "Bye Week": 5,
-    "Rookie": "no"
+    "name": "Kaleb Johnson",
+    "team": "PIT",
+    "position": "RB",
+    "byeWeek": 5,
+    "rookie": "no"
   },
   {
-    "Name": "Aaron Jones Sr.",
-    "Team": "MIN",
-    "Position": "RB",
-    "Bye Week": 6,
-    "Rookie": "no"
+    "name": "Aaron Jones Sr.",
+    "team": "MIN",
+    "position": "RB",
+    "byeWeek": 6,
+    "rookie": "no"
   },
   {
-    "Name": "Baker Mayfield",
-    "Team": "TB",
-    "Position": "QB",
-    "Bye Week": 9,
-    "Rookie": "no"
+    "name": "Baker Mayfield",
+    "team": "TB",
+    "position": "QB",
+    "byeWeek": 9,
+    "rookie": "no"
   },
   {
-    "Name": "Quinshon Judkins",
-    "Team": "CLE",
-    "Position": "RB",
-    "Bye Week": 9,
-    "Rookie": "yes"
+    "name": "Quinshon Judkins",
+    "team": "CLE",
+    "position": "RB",
+    "byeWeek": 9,
+    "rookie": "yes"
   },
   {
-    "Name": "George Pickens",
-    "Team": "DAL",
-    "Position": "WR",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "George Pickens",
+    "team": "DAL",
+    "position": "WR",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "Tony Pollard",
-    "Team": "TEN",
-    "Position": "RB",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "Tony Pollard",
+    "team": "TEN",
+    "position": "RB",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "Mark Andrews",
-    "Team": "BAL",
-    "Position": "TE",
-    "Bye Week": 7,
-    "Rookie": "no"
+    "name": "Mark Andrews",
+    "team": "BAL",
+    "position": "TE",
+    "byeWeek": 7,
+    "rookie": "no"
   },
   {
-    "Name": "Isiah Pacheco",
-    "Team": "KC",
-    "Position": "RB",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "Isiah Pacheco",
+    "team": "KC",
+    "position": "RB",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "Jordan Addison",
-    "Team": "MIN",
-    "Position": "WR",
-    "Bye Week": 6,
-    "Rookie": "no"
+    "name": "Jordan Addison",
+    "team": "MIN",
+    "position": "WR",
+    "byeWeek": 6,
+    "rookie": "no"
   },
   {
-    "Name": "Tetairoa McMillan",
-    "Team": "CAR",
-    "Position": "WR",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "Tetairoa McMillan",
+    "team": "CAR",
+    "position": "WR",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Brian Robinson Jr.",
-    "Team": "WAS",
-    "Position": "RB",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Brian Robinson Jr.",
+    "team": "WAS",
+    "position": "RB",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Jaylen Waddle",
-    "Team": "MIA",
-    "Position": "WR",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Jaylen Waddle",
+    "team": "MIA",
+    "position": "WR",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Travis Hunter",
-    "Team": "JAC",
-    "Position": "WR",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Travis Hunter",
+    "team": "JAC",
+    "position": "WR",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Bo Nix",
-    "Team": "DEN",
-    "Position": "QB",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Bo Nix",
+    "team": "DEN",
+    "position": "QB",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Kyler Murray",
-    "Team": "ARI",
-    "Position": "QB",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Kyler Murray",
+    "team": "ARI",
+    "position": "QB",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "T.J. Hockenson",
-    "Team": "MIN",
-    "Position": "TE",
-    "Bye Week": 6,
-    "Rookie": "no"
+    "name": "T.J. Hockenson",
+    "team": "MIN",
+    "position": "TE",
+    "byeWeek": 6,
+    "rookie": "no"
   },
   {
-    "Name": "Chris Godwin",
-    "Team": "TB",
-    "Position": "WR",
-    "Bye Week": 9,
-    "Rookie": "no"
+    "name": "Chris Godwin",
+    "team": "TB",
+    "position": "WR",
+    "byeWeek": 9,
+    "rookie": "no"
   },
   {
-    "Name": "Chris Olave",
-    "Team": "NO",
-    "Position": "WR",
-    "Bye Week": 11,
-    "Rookie": "no"
+    "name": "Chris Olave",
+    "team": "NO",
+    "position": "WR",
+    "byeWeek": 11,
+    "rookie": "no"
   },
   {
-    "Name": "Rome Odunze",
-    "Team": "CHI",
-    "Position": "WR",
-    "Bye Week": 5,
-    "Rookie": "no"
+    "name": "Rome Odunze",
+    "team": "CHI",
+    "position": "WR",
+    "byeWeek": 5,
+    "rookie": "no"
   },
   {
-    "Name": "Najee Harris",
-    "Team": "LAC",
-    "Position": "RB",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Najee Harris",
+    "team": "LAC",
+    "position": "RB",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Jerry Jeudy",
-    "Team": "CLE",
-    "Position": "WR",
-    "Bye Week": 9,
-    "Rookie": "no"
+    "name": "Jerry Jeudy",
+    "team": "CLE",
+    "position": "WR",
+    "byeWeek": 9,
+    "rookie": "no"
   },
   {
-    "Name": "Travis Kelce",
-    "Team": "KC",
-    "Position": "TE",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "Travis Kelce",
+    "team": "KC",
+    "position": "TE",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "Jayden Reed",
-    "Team": "GB",
-    "Position": "WR",
-    "Bye Week": 5,
-    "Rookie": "no"
+    "name": "Jayden Reed",
+    "team": "GB",
+    "position": "WR",
+    "byeWeek": 5,
+    "rookie": "no"
   },
   {
-    "Name": "Tyrone Tracy Jr.",
-    "Team": "NYG",
-    "Position": "RB",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "Tyrone Tracy Jr.",
+    "team": "NYG",
+    "position": "RB",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Tucker Kraft",
-    "Team": "GB",
-    "Position": "TE",
-    "Bye Week": 5,
-    "Rookie": "no"
+    "name": "Tucker Kraft",
+    "team": "GB",
+    "position": "TE",
+    "byeWeek": 5,
+    "rookie": "no"
   },
   {
-    "Name": "Deebo Samuel Sr.",
-    "Team": "WAS",
-    "Position": "WR",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Deebo Samuel Sr.",
+    "team": "WAS",
+    "position": "WR",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Justin Fields",
-    "Team": "NYJ",
-    "Position": "QB",
-    "Bye Week": 9,
-    "Rookie": "no"
+    "name": "Justin Fields",
+    "team": "NYJ",
+    "position": "QB",
+    "byeWeek": 9,
+    "rookie": "no"
   },
   {
-    "Name": "Jauan Jennings",
-    "Team": "SF",
-    "Position": "WR",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "Jauan Jennings",
+    "team": "SF",
+    "position": "WR",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Brock Purdy",
-    "Team": "SF",
-    "Position": "QB",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "Brock Purdy",
+    "team": "SF",
+    "position": "QB",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Caleb Williams",
-    "Team": "CHI",
-    "Position": "QB",
-    "Bye Week": 5,
-    "Rookie": "no"
+    "name": "Caleb Williams",
+    "team": "CHI",
+    "position": "QB",
+    "byeWeek": 5,
+    "rookie": "no"
   },
   {
-    "Name": "David Njoku",
-    "Team": "CLE",
-    "Position": "TE",
-    "Bye Week": 9,
-    "Rookie": "no"
+    "name": "David Njoku",
+    "team": "CLE",
+    "position": "TE",
+    "byeWeek": 9,
+    "rookie": "no"
   },
   {
-    "Name": "Justin Herbert",
-    "Team": "LAC",
-    "Position": "QB",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Justin Herbert",
+    "team": "LAC",
+    "position": "QB",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Jared Goff",
-    "Team": "DET",
-    "Position": "QB",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Jared Goff",
+    "team": "DET",
+    "position": "QB",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Jaylen Warren",
-    "Team": "PIT",
-    "Position": "RB",
-    "Bye Week": 5,
-    "Rookie": "no"
+    "name": "Jaylen Warren",
+    "team": "PIT",
+    "position": "RB",
+    "byeWeek": 5,
+    "rookie": "no"
   },
   {
-    "Name": "Travis Etienne Jr.",
-    "Team": "JAC",
-    "Position": "RB",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Travis Etienne Jr.",
+    "team": "JAC",
+    "position": "RB",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Dak Prescott",
-    "Team": "DAL",
-    "Position": "QB",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "Dak Prescott",
+    "team": "DAL",
+    "position": "QB",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "Jakobi Meyers",
-    "Team": "LV",
-    "Position": "WR",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Jakobi Meyers",
+    "team": "LV",
+    "position": "WR",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Evan Engram",
-    "Team": "DEN",
-    "Position": "TE",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Evan Engram",
+    "team": "DEN",
+    "position": "TE",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Jordan Mason",
-    "Team": "MIN",
-    "Position": "RB",
-    "Bye Week": 6,
-    "Rookie": "no"
+    "name": "Jordan Mason",
+    "team": "MIN",
+    "position": "RB",
+    "byeWeek": 6,
+    "rookie": "no"
   },
   {
-    "Name": "Rhamondre Stevenson",
-    "Team": "NE",
-    "Position": "RB",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "Rhamondre Stevenson",
+    "team": "NE",
+    "position": "RB",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Ricky Pearsall",
-    "Team": "SF",
-    "Position": "WR",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "Ricky Pearsall",
+    "team": "SF",
+    "position": "WR",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Khalil Shakir",
-    "Team": "BUF",
-    "Position": "WR",
-    "Bye Week": 7,
-    "Rookie": "no"
+    "name": "Khalil Shakir",
+    "team": "BUF",
+    "position": "WR",
+    "byeWeek": 7,
+    "rookie": "no"
   },
   {
-    "Name": "Zach Charbonnet",
-    "Team": "SEA",
-    "Position": "RB",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Zach Charbonnet",
+    "team": "SEA",
+    "position": "RB",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Jordan Love",
-    "Team": "GB",
-    "Position": "QB",
-    "Bye Week": 5,
-    "Rookie": "no"
+    "name": "Jordan Love",
+    "team": "GB",
+    "position": "QB",
+    "byeWeek": 5,
+    "rookie": "no"
   },
   {
-    "Name": "Brandon Aiyuk",
-    "Team": "SF",
-    "Position": "WR",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "Brandon Aiyuk",
+    "team": "SF",
+    "position": "WR",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Drake Maye",
-    "Team": "NE",
-    "Position": "QB",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "Drake Maye",
+    "team": "NE",
+    "position": "QB",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Javonte Williams",
-    "Team": "DAL",
-    "Position": "RB",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "Javonte Williams",
+    "team": "DAL",
+    "position": "RB",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "Tank Bigsby",
-    "Team": "JAC",
-    "Position": "RB",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Tank Bigsby",
+    "team": "JAC",
+    "position": "RB",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Cam Skattebo",
-    "Team": "NYG",
-    "Position": "RB",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "Cam Skattebo",
+    "team": "NYG",
+    "position": "RB",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Tyler Warren",
-    "Team": "IND",
-    "Position": "TE",
-    "Bye Week": 11,
-    "Rookie": "no"
+    "name": "Tyler Warren",
+    "team": "IND",
+    "position": "TE",
+    "byeWeek": 11,
+    "rookie": "no"
   },
   {
-    "Name": "Dalton Kincaid",
-    "Team": "BUF",
-    "Position": "TE",
-    "Bye Week": 7,
-    "Rookie": "no"
+    "name": "Dalton Kincaid",
+    "team": "BUF",
+    "position": "TE",
+    "byeWeek": 7,
+    "rookie": "no"
   },
   {
-    "Name": "Trevor Lawrence",
-    "Team": "JAC",
-    "Position": "QB",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Trevor Lawrence",
+    "team": "JAC",
+    "position": "QB",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Stefon Diggs",
-    "Team": "NE",
-    "Position": "WR",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "Stefon Diggs",
+    "team": "NE",
+    "position": "WR",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Josh Downs",
-    "Team": "IND",
-    "Position": "WR",
-    "Bye Week": 11,
-    "Rookie": "no"
+    "name": "Josh Downs",
+    "team": "IND",
+    "position": "WR",
+    "byeWeek": 11,
+    "rookie": "no"
   },
   {
-    "Name": "C.J. Stroud",
-    "Team": "HOU",
-    "Position": "QB",
-    "Bye Week": 6,
-    "Rookie": "no"
+    "name": "C.J. Stroud",
+    "team": "HOU",
+    "position": "QB",
+    "byeWeek": 6,
+    "rookie": "no"
   },
   {
-    "Name": "Darnell Mooney",
-    "Team": "ATL",
-    "Position": "WR",
-    "Bye Week": 5,
-    "Rookie": "no"
+    "name": "Darnell Mooney",
+    "team": "ATL",
+    "position": "WR",
+    "byeWeek": 5,
+    "rookie": "no"
   },
   {
-    "Name": "Keon Coleman",
-    "Team": "BUF",
-    "Position": "WR",
-    "Bye Week": 7,
-    "Rookie": "no"
+    "name": "Keon Coleman",
+    "team": "BUF",
+    "position": "WR",
+    "byeWeek": 7,
+    "rookie": "no"
   },
   {
-    "Name": "Ray Davis",
-    "Team": "BUF",
-    "Position": "RB",
-    "Bye Week": 7,
-    "Rookie": "no"
+    "name": "Ray Davis",
+    "team": "BUF",
+    "position": "RB",
+    "byeWeek": 7,
+    "rookie": "no"
   },
   {
-    "Name": "Jonnu Smith",
-    "Team": "PIT",
-    "Position": "TE",
-    "Bye Week": 5,
-    "Rookie": "no"
+    "name": "Jonnu Smith",
+    "team": "PIT",
+    "position": "TE",
+    "byeWeek": 5,
+    "rookie": "no"
   },
   {
-    "Name": "Dallas Goedert",
-    "Team": "PHI",
-    "Position": "TE",
-    "Bye Week": 9,
-    "Rookie": "no"
+    "name": "Dallas Goedert",
+    "team": "PHI",
+    "position": "TE",
+    "byeWeek": 9,
+    "rookie": "no"
   },
   {
-    "Name": "Cooper Kupp",
-    "Team": "SEA",
-    "Position": "WR",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Cooper Kupp",
+    "team": "SEA",
+    "position": "WR",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Tyjae Spears",
-    "Team": "TEN",
-    "Position": "RB",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "Tyjae Spears",
+    "team": "TEN",
+    "position": "RB",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "Rachaad White",
-    "Team": "TB",
-    "Position": "RB",
-    "Bye Week": 9,
-    "Rookie": "no"
+    "name": "Rachaad White",
+    "team": "TB",
+    "position": "RB",
+    "byeWeek": 9,
+    "rookie": "no"
   },
   {
-    "Name": "Trey Benson",
-    "Team": "ARI",
-    "Position": "RB",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Trey Benson",
+    "team": "ARI",
+    "position": "RB",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Michael Pittman Jr.",
-    "Team": "IND",
-    "Position": "WR",
-    "Bye Week": 11,
-    "Rookie": "no"
+    "name": "Michael Pittman Jr.",
+    "team": "IND",
+    "position": "WR",
+    "byeWeek": 11,
+    "rookie": "no"
   },
   {
-    "Name": "Rashid Shaheed",
-    "Team": "NO",
-    "Position": "WR",
-    "Bye Week": 11,
-    "Rookie": "no"
+    "name": "Rashid Shaheed",
+    "team": "NO",
+    "position": "WR",
+    "byeWeek": 11,
+    "rookie": "no"
   },
   {
-    "Name": "J.J. McCarthy",
-    "Team": "MIN",
-    "Position": "QB",
-    "Bye Week": 6,
-    "Rookie": "no"
+    "name": "J.J. McCarthy",
+    "team": "MIN",
+    "position": "QB",
+    "byeWeek": 6,
+    "rookie": "no"
   },
   {
-    "Name": "Matthew Golden",
-    "Team": "GB",
-    "Position": "WR",
-    "Bye Week": 5,
-    "Rookie": "no"
+    "name": "Matthew Golden",
+    "team": "GB",
+    "position": "WR",
+    "byeWeek": 5,
+    "rookie": "no"
   },
   {
-    "Name": "Matthew Stafford",
-    "Team": "LAR",
-    "Position": "QB",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Matthew Stafford",
+    "team": "LAR",
+    "position": "QB",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Tyler Allgeier",
-    "Team": "ATL",
-    "Position": "RB",
-    "Bye Week": 5,
-    "Rookie": "no"
+    "name": "Tyler Allgeier",
+    "team": "ATL",
+    "position": "RB",
+    "byeWeek": 5,
+    "rookie": "no"
   },
   {
-    "Name": "Rashod Bateman",
-    "Team": "BAL",
-    "Position": "WR",
-    "Bye Week": 7,
-    "Rookie": "no"
+    "name": "Rashod Bateman",
+    "team": "BAL",
+    "position": "WR",
+    "byeWeek": 7,
+    "rookie": "no"
   },
   {
-    "Name": "Isaiah Likely",
-    "Team": "BAL",
-    "Position": "TE",
-    "Bye Week": 7,
-    "Rookie": "no"
+    "name": "Isaiah Likely",
+    "team": "BAL",
+    "position": "TE",
+    "byeWeek": 7,
+    "rookie": "no"
   },
   {
-    "Name": "Kyle Pitts",
-    "Team": "ATL",
-    "Position": "TE",
-    "Bye Week": 5,
-    "Rookie": "no"
+    "name": "Kyle Pitts",
+    "team": "ATL",
+    "position": "TE",
+    "byeWeek": 5,
+    "rookie": "no"
   },
   {
-    "Name": "Tua Tagovailoa",
-    "Team": "MIA",
-    "Position": "QB",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Tua Tagovailoa",
+    "team": "MIA",
+    "position": "QB",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "J.K. Dobbins",
-    "Team": "DEN",
-    "Position": "RB",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "J.K. Dobbins",
+    "team": "DEN",
+    "position": "RB",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Isaac Guerendo",
-    "Team": "SF",
-    "Position": "RB",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "Isaac Guerendo",
+    "team": "SF",
+    "position": "RB",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Colston Loveland",
-    "Team": "CHI",
-    "Position": "TE",
-    "Bye Week": 5,
-    "Rookie": "no"
+    "name": "Colston Loveland",
+    "team": "CHI",
+    "position": "TE",
+    "byeWeek": 5,
+    "rookie": "no"
   },
   {
-    "Name": "Marvin Mims Jr.",
-    "Team": "DEN",
-    "Position": "WR",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Marvin Mims Jr.",
+    "team": "DEN",
+    "position": "WR",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Jaylen Wright",
-    "Team": "MIA",
-    "Position": "RB",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Jaylen Wright",
+    "team": "MIA",
+    "position": "RB",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Emeka Egbuka",
-    "Team": "TB",
-    "Position": "WR",
-    "Bye Week": 9,
-    "Rookie": "no"
+    "name": "Emeka Egbuka",
+    "team": "TB",
+    "position": "WR",
+    "byeWeek": 9,
+    "rookie": "no"
   },
   {
-    "Name": "Christian Kirk",
-    "Team": "HOU",
-    "Position": "WR",
-    "Bye Week": 6,
-    "Rookie": "no"
+    "name": "Christian Kirk",
+    "team": "HOU",
+    "position": "WR",
+    "byeWeek": 6,
+    "rookie": "no"
   },
   {
-    "Name": "Rico Dowdle",
-    "Team": "CAR",
-    "Position": "RB",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "Rico Dowdle",
+    "team": "CAR",
+    "position": "RB",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Bryce Young",
-    "Team": "CAR",
-    "Position": "QB",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "Bryce Young",
+    "team": "CAR",
+    "position": "QB",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Austin Ekeler",
-    "Team": "WAS",
-    "Position": "RB",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Austin Ekeler",
+    "team": "WAS",
+    "position": "RB",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Hunter Henry",
-    "Team": "NE",
-    "Position": "TE",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "Hunter Henry",
+    "team": "NE",
+    "position": "TE",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Jake Ferguson",
-    "Team": "DAL",
-    "Position": "TE",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "Jake Ferguson",
+    "team": "DAL",
+    "position": "TE",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "Bhayshul Tuten",
-    "Team": "JAC",
-    "Position": "RB",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Bhayshul Tuten",
+    "team": "JAC",
+    "position": "RB",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Luther Burden III",
-    "Team": "CHI",
-    "Position": "WR",
-    "Bye Week": 5,
-    "Rookie": "no"
+    "name": "Luther Burden III",
+    "team": "CHI",
+    "position": "WR",
+    "byeWeek": 5,
+    "rookie": "no"
   },
   {
-    "Name": "Jaydon Blue",
-    "Team": "DAL",
-    "Position": "RB",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "Jaydon Blue",
+    "team": "DAL",
+    "position": "RB",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "Braelon Allen",
-    "Team": "NYJ",
-    "Position": "RB",
-    "Bye Week": 9,
-    "Rookie": "no"
+    "name": "Braelon Allen",
+    "team": "NYJ",
+    "position": "RB",
+    "byeWeek": 9,
+    "rookie": "no"
   },
   {
-    "Name": "Michael Penix Jr.",
-    "Team": "ATL",
-    "Position": "QB",
-    "Bye Week": 5,
-    "Rookie": "no"
+    "name": "Michael Penix Jr.",
+    "team": "ATL",
+    "position": "QB",
+    "byeWeek": 5,
+    "rookie": "no"
   },
   {
-    "Name": "Jalen McMillan",
-    "Team": "TB",
-    "Position": "WR",
-    "Bye Week": 9,
-    "Rookie": "no"
+    "name": "Jalen McMillan",
+    "team": "TB",
+    "position": "WR",
+    "byeWeek": 9,
+    "rookie": "no"
   },
   {
-    "Name": "Blake Corum",
-    "Team": "LAR",
-    "Position": "RB",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Blake Corum",
+    "team": "LAR",
+    "position": "RB",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Romeo Doubs",
-    "Team": "GB",
-    "Position": "WR",
-    "Bye Week": 5,
-    "Rookie": "no"
+    "name": "Romeo Doubs",
+    "team": "GB",
+    "position": "WR",
+    "byeWeek": 5,
+    "rookie": "no"
   },
   {
-    "Name": "Zach Ertz",
-    "Team": "WAS",
-    "Position": "TE",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Zach Ertz",
+    "team": "WAS",
+    "position": "TE",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Cedric Tillman",
-    "Team": "CLE",
-    "Position": "WR",
-    "Bye Week": 9,
-    "Rookie": "no"
+    "name": "Cedric Tillman",
+    "team": "CLE",
+    "position": "WR",
+    "byeWeek": 9,
+    "rookie": "no"
   },
   {
-    "Name": "Nick Chubb",
-    "Team": "HOU",
-    "Position": "RB",
-    "Bye Week": 6,
-    "Rookie": "no"
+    "name": "Nick Chubb",
+    "team": "HOU",
+    "position": "RB",
+    "byeWeek": 6,
+    "rookie": "no"
   },
   {
-    "Name": "Marquise Brown",
-    "Team": "KC",
-    "Position": "WR",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "Marquise Brown",
+    "team": "KC",
+    "position": "WR",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "Geno Smith",
-    "Team": "LV",
-    "Position": "QB",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Geno Smith",
+    "team": "LV",
+    "position": "QB",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Tre Harris",
-    "Team": "LAC",
-    "Position": "WR",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Tre Harris",
+    "team": "LAC",
+    "position": "WR",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Denver Broncos",
-    "Team": "DEN",
-    "Position": "DEF",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Denver Broncos",
+    "team": "DEN",
+    "position": "DEF",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Quentin Johnston",
-    "Team": "LAC",
-    "Position": "WR",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Quentin Johnston",
+    "team": "LAC",
+    "position": "WR",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "MarShawn Lloyd",
-    "Team": "GB",
-    "Position": "RB",
-    "Bye Week": 5,
-    "Rookie": "no"
+    "name": "MarShawn Lloyd",
+    "team": "GB",
+    "position": "RB",
+    "byeWeek": 5,
+    "rookie": "no"
   },
   {
-    "Name": "Roschon Johnson",
-    "Team": "CHI",
-    "Position": "RB",
-    "Bye Week": 5,
-    "Rookie": "no"
+    "name": "Roschon Johnson",
+    "team": "CHI",
+    "position": "RB",
+    "byeWeek": 5,
+    "rookie": "no"
   },
   {
-    "Name": "Philadelphia Eagles",
-    "Team": "PHI",
-    "Position": "DEF",
-    "Bye Week": 9,
-    "Rookie": "no"
+    "name": "Philadelphia Eagles",
+    "team": "PHI",
+    "position": "DEF",
+    "byeWeek": 9,
+    "rookie": "no"
   },
   {
-    "Name": "Kyle Williams",
-    "Team": "NE",
-    "Position": "WR",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "Kyle Williams",
+    "team": "NE",
+    "position": "WR",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Adam Thielen",
-    "Team": "CAR",
-    "Position": "WR",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "Adam Thielen",
+    "team": "CAR",
+    "position": "WR",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "DeAndre Hopkins",
-    "Team": "BAL",
-    "Position": "WR",
-    "Bye Week": 7,
-    "Rookie": "no"
+    "name": "DeAndre Hopkins",
+    "team": "BAL",
+    "position": "WR",
+    "byeWeek": 7,
+    "rookie": "no"
   },
   {
-    "Name": "Pittsburgh Steelers",
-    "Team": "PIT",
-    "Position": "DEF",
-    "Bye Week": 5,
-    "Rookie": "no"
+    "name": "Pittsburgh Steelers",
+    "team": "PIT",
+    "position": "DEF",
+    "byeWeek": 5,
+    "rookie": "no"
   },
   {
-    "Name": "Baltimore Ravens",
-    "Team": "BAL",
-    "Position": "DEF",
-    "Bye Week": 7,
-    "Rookie": "no"
+    "name": "Baltimore Ravens",
+    "team": "BAL",
+    "position": "DEF",
+    "byeWeek": 7,
+    "rookie": "no"
   },
   {
-    "Name": "Jayden Higgins",
-    "Team": "HOU",
-    "Position": "WR",
-    "Bye Week": 6,
-    "Rookie": "no"
+    "name": "Jayden Higgins",
+    "team": "HOU",
+    "position": "WR",
+    "byeWeek": 6,
+    "rookie": "no"
   },
   {
-    "Name": "Jerome Ford",
-    "Team": "CLE",
-    "Position": "RB",
-    "Bye Week": 9,
-    "Rookie": "no"
+    "name": "Jerome Ford",
+    "team": "CLE",
+    "position": "RB",
+    "byeWeek": 9,
+    "rookie": "no"
   },
   {
-    "Name": "Minnesota Vikings",
-    "Team": "MIN",
-    "Position": "DEF",
-    "Bye Week": 6,
-    "Rookie": "no"
+    "name": "Minnesota Vikings",
+    "team": "MIN",
+    "position": "DEF",
+    "byeWeek": 6,
+    "rookie": "no"
   },
   {
-    "Name": "Alec Pierce",
-    "Team": "IND",
-    "Position": "WR",
-    "Bye Week": 11,
-    "Rookie": "no"
+    "name": "Alec Pierce",
+    "team": "IND",
+    "position": "WR",
+    "byeWeek": 11,
+    "rookie": "no"
   },
   {
-    "Name": "Joshua Palmer",
-    "Team": "BUF",
-    "Position": "WR",
-    "Bye Week": 7,
-    "Rookie": "no"
+    "name": "Joshua Palmer",
+    "team": "BUF",
+    "position": "WR",
+    "byeWeek": 7,
+    "rookie": "no"
   },
   {
-    "Name": "Sam Darnold",
-    "Team": "SEA",
-    "Position": "QB",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Sam Darnold",
+    "team": "SEA",
+    "position": "QB",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Xavier Legette",
-    "Team": "CAR",
-    "Position": "WR",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "Xavier Legette",
+    "team": "CAR",
+    "position": "WR",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Pat Freiermuth",
-    "Team": "PIT",
-    "Position": "TE",
-    "Bye Week": 5,
-    "Rookie": "no"
+    "name": "Pat Freiermuth",
+    "team": "PIT",
+    "position": "TE",
+    "byeWeek": 5,
+    "rookie": "no"
   },
   {
-    "Name": "Kansas City Chiefs",
-    "Team": "KC",
-    "Position": "DEF",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "Kansas City Chiefs",
+    "team": "KC",
+    "position": "DEF",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "Houston Texans",
-    "Team": "HOU",
-    "Position": "DEF",
-    "Bye Week": 6,
-    "Rookie": "no"
+    "name": "Houston Texans",
+    "team": "HOU",
+    "position": "DEF",
+    "byeWeek": 6,
+    "rookie": "no"
   },
   {
-    "Name": "Buffalo Bills",
-    "Team": "BUF",
-    "Position": "DEF",
-    "Bye Week": 7,
-    "Rookie": "no"
+    "name": "Buffalo Bills",
+    "team": "BUF",
+    "position": "DEF",
+    "byeWeek": 7,
+    "rookie": "no"
   },
   {
-    "Name": "Cade Otton",
-    "Team": "TB",
-    "Position": "TE",
-    "Bye Week": 9,
-    "Rookie": "no"
+    "name": "Cade Otton",
+    "team": "TB",
+    "position": "TE",
+    "byeWeek": 9,
+    "rookie": "no"
   },
   {
-    "Name": "Brandon Aubrey",
-    "Team": "DAL",
-    "Position": "K",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "Brandon Aubrey",
+    "team": "DAL",
+    "position": "K",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "Mike Gesicki",
-    "Team": "CIN",
-    "Position": "TE",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "Mike Gesicki",
+    "team": "CIN",
+    "position": "TE",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "Cameron Ward",
-    "Team": "TEN",
-    "Position": "QB",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "Cameron Ward",
+    "team": "TEN",
+    "position": "QB",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "Dylan Sampson",
-    "Team": "CLE",
-    "Position": "RB",
-    "Bye Week": 9,
-    "Rookie": "no"
+    "name": "Dylan Sampson",
+    "team": "CLE",
+    "position": "RB",
+    "byeWeek": 9,
+    "rookie": "no"
   },
   {
-    "Name": "Kareem Hunt",
-    "Team": "KC",
-    "Position": "RB",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "Kareem Hunt",
+    "team": "KC",
+    "position": "RB",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "Jake Bates",
-    "Team": "DET",
-    "Position": "K",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Jake Bates",
+    "team": "DET",
+    "position": "K",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Cameron Dicker",
-    "Team": "LAC",
-    "Position": "K",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Cameron Dicker",
+    "team": "LAC",
+    "position": "K",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Detroit Lions",
-    "Team": "DET",
-    "Position": "DEF",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Detroit Lions",
+    "team": "DET",
+    "position": "DEF",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Wan'Dale Robinson",
-    "Team": "NYG",
-    "Position": "WR",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "Wan'Dale Robinson",
+    "team": "NYG",
+    "position": "WR",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Jalen Coker",
-    "Team": "CAR",
-    "Position": "WR",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "Jalen Coker",
+    "team": "CAR",
+    "position": "WR",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Kendre Miller",
-    "Team": "NO",
-    "Position": "RB",
-    "Bye Week": 11,
-    "Rookie": "no"
+    "name": "Kendre Miller",
+    "team": "NO",
+    "position": "RB",
+    "byeWeek": 11,
+    "rookie": "no"
   },
   {
-    "Name": "Los Angeles Chargers",
-    "Team": "LAC",
-    "Position": "DEF",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Los Angeles Chargers",
+    "team": "LAC",
+    "position": "DEF",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "DeMario Douglas",
-    "Team": "NE",
-    "Position": "WR",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "DeMario Douglas",
+    "team": "NE",
+    "position": "WR",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "DJ Giddens",
-    "Team": "IND",
-    "Position": "RB",
-    "Bye Week": 11,
-    "Rookie": "no"
+    "name": "DJ Giddens",
+    "team": "IND",
+    "position": "RB",
+    "byeWeek": 11,
+    "rookie": "no"
   },
   {
-    "Name": "Jack Bech",
-    "Team": "LV",
-    "Position": "WR",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Jack Bech",
+    "team": "LV",
+    "position": "WR",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Brenton Strange",
-    "Team": "JAC",
-    "Position": "TE",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Brenton Strange",
+    "team": "JAC",
+    "position": "TE",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Wil Lutz",
-    "Team": "DEN",
-    "Position": "K4",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Wil Lutz",
+    "team": "DEN",
+    "position": "K4",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Michael Wilson",
-    "Team": "ARI",
-    "Position": "WR",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Michael Wilson",
+    "team": "ARI",
+    "position": "WR",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Los Angeles Rams",
-    "Team": "LAR",
-    "Position": "DEF",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Los Angeles Rams",
+    "team": "LAR",
+    "position": "DEF",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Green Bay Packers",
-    "Team": "GB",
-    "Position": "DEF",
-    "Bye Week": 5,
-    "Rookie": "no"
+    "name": "Green Bay Packers",
+    "team": "GB",
+    "position": "DEF",
+    "byeWeek": 5,
+    "rookie": "no"
   },
   {
-    "Name": "Dontayvion Wicks",
-    "Team": "GB",
-    "Position": "WR",
-    "Bye Week": 5,
-    "Rookie": "no"
+    "name": "Dontayvion Wicks",
+    "team": "GB",
+    "position": "WR",
+    "byeWeek": 5,
+    "rookie": "no"
   },
   {
-    "Name": "Seattle Seahawks",
-    "Team": "SEA",
-    "Position": "DEF",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Seattle Seahawks",
+    "team": "SEA",
+    "position": "DEF",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Adonai Mitchell",
-    "Team": "IND",
-    "Position": "WR",
-    "Bye Week": 11,
-    "Rookie": "no"
+    "name": "Adonai Mitchell",
+    "team": "IND",
+    "position": "WR",
+    "byeWeek": 11,
+    "rookie": "no"
   },
   {
-    "Name": "Chris Boswell",
-    "Team": "PIT",
-    "Position": "K5",
-    "Bye Week": 5,
-    "Rookie": "no"
+    "name": "Chris Boswell",
+    "team": "PIT",
+    "position": "K5",
+    "byeWeek": 5,
+    "rookie": "no"
   },
   {
-    "Name": "Chase McLaughlin",
-    "Team": "TB",
-    "Position": "K6",
-    "Bye Week": 9,
-    "Rookie": "no"
+    "name": "Chase McLaughlin",
+    "team": "TB",
+    "position": "K6",
+    "byeWeek": 9,
+    "rookie": "no"
   },
   {
-    "Name": "Aaron Rodgers",
-    "Team": "PIT",
-    "Position": "QB",
-    "Bye Week": 5,
-    "Rookie": "no"
+    "name": "Aaron Rodgers",
+    "team": "PIT",
+    "position": "QB",
+    "byeWeek": 5,
+    "rookie": "no"
   },
   {
-    "Name": "Devin Neal",
-    "Team": "NO",
-    "Position": "RB",
-    "Bye Week": 11,
-    "Rookie": "no"
+    "name": "Devin Neal",
+    "team": "NO",
+    "position": "RB",
+    "byeWeek": 11,
+    "rookie": "no"
   },
   {
-    "Name": "Ka'imi Fairbairn",
-    "Team": "HOU",
-    "Position": "K7",
-    "Bye Week": 6,
-    "Rookie": "no"
+    "name": "Ka'imi Fairbairn",
+    "team": "HOU",
+    "position": "K7",
+    "byeWeek": 6,
+    "rookie": "no"
   },
   {
-    "Name": "Chig Okonkwo",
-    "Team": "TEN",
-    "Position": "TE",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "Chig Okonkwo",
+    "team": "TEN",
+    "position": "TE",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "Andrei Iosivas",
-    "Team": "CIN",
-    "Position": "WR",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "Andrei Iosivas",
+    "team": "CIN",
+    "position": "WR",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "New York Jets",
-    "Team": "NYJ",
-    "Position": "DEF",
-    "Bye Week": 9,
-    "Rookie": "no"
+    "name": "New York Jets",
+    "team": "NYJ",
+    "position": "DEF",
+    "byeWeek": 9,
+    "rookie": "no"
   },
   {
-    "Name": "Dalton Schultz",
-    "Team": "HOU",
-    "Position": "TE",
-    "Bye Week": 6,
-    "Rookie": "no"
+    "name": "Dalton Schultz",
+    "team": "HOU",
+    "position": "TE",
+    "byeWeek": 6,
+    "rookie": "no"
   },
   {
-    "Name": "Evan McPherson",
-    "Team": "CIN",
-    "Position": "K8",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "Evan McPherson",
+    "team": "CIN",
+    "position": "K8",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "Darius Slayton",
-    "Team": "NYG",
-    "Position": "WR",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "Darius Slayton",
+    "team": "NYG",
+    "position": "WR",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Justice Hill",
-    "Team": "BAL",
-    "Position": "RB",
-    "Bye Week": 7,
-    "Rookie": "no"
+    "name": "Justice Hill",
+    "team": "BAL",
+    "position": "RB",
+    "byeWeek": 7,
+    "rookie": "no"
   },
   {
-    "Name": "Harrison Butker",
-    "Team": "KC",
-    "Position": "K9",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "Harrison Butker",
+    "team": "KC",
+    "position": "K9",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "Tyler Bass",
-    "Team": "BUF",
-    "Position": "K0",
-    "Bye Week": 7,
-    "Rookie": "no"
+    "name": "Tyler Bass",
+    "team": "BUF",
+    "position": "K0",
+    "byeWeek": 7,
+    "rookie": "no"
   },
   {
-    "Name": "Mason Taylor",
-    "Team": "NYJ",
-    "Position": "TE",
-    "Bye Week": 9,
-    "Rookie": "no"
+    "name": "Mason Taylor",
+    "team": "NYJ",
+    "position": "TE",
+    "byeWeek": 9,
+    "rookie": "no"
   },
   {
-    "Name": "Audric Estime",
-    "Team": "DEN",
-    "Position": "RB",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Audric Estime",
+    "team": "DEN",
+    "position": "RB",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Calvin Austin III",
-    "Team": "PIT",
-    "Position": "WR",
-    "Bye Week": 5,
-    "Rookie": "no"
+    "name": "Calvin Austin III",
+    "team": "PIT",
+    "position": "WR",
+    "byeWeek": 5,
+    "rookie": "no"
   },
   {
-    "Name": "Jaleel McLaughlin",
-    "Team": "DEN",
-    "Position": "RB",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Jaleel McLaughlin",
+    "team": "DEN",
+    "position": "RB",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Miles Sanders",
-    "Team": "DAL",
-    "Position": "RB",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "Miles Sanders",
+    "team": "DAL",
+    "position": "RB",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "Jake Elliott",
-    "Team": "PHI",
-    "Position": "K1",
-    "Bye Week": 9,
-    "Rookie": "no"
+    "name": "Jake Elliott",
+    "team": "PHI",
+    "position": "K1",
+    "byeWeek": 9,
+    "rookie": "no"
   },
   {
-    "Name": "San Francisco 49ers",
-    "Team": "SF",
-    "Position": "DEF",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "San Francisco 49ers",
+    "team": "SF",
+    "position": "DEF",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Jason Sanders",
-    "Team": "MIA",
-    "Position": "K2",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Jason Sanders",
+    "team": "MIA",
+    "position": "K2",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Jaylin Noel",
-    "Team": "HOU",
-    "Position": "WR",
-    "Bye Week": 6,
-    "Rookie": "no"
+    "name": "Jaylin Noel",
+    "team": "HOU",
+    "position": "WR",
+    "byeWeek": 6,
+    "rookie": "no"
   },
   {
-    "Name": "Cole Kmet",
-    "Team": "CHI",
-    "Position": "TE",
-    "Bye Week": 5,
-    "Rookie": "no"
+    "name": "Cole Kmet",
+    "team": "CHI",
+    "position": "TE",
+    "byeWeek": 5,
+    "rookie": "no"
   },
   {
-    "Name": "Will Shipley",
-    "Team": "PHI",
-    "Position": "RB",
-    "Bye Week": 9,
-    "Rookie": "no"
+    "name": "Will Shipley",
+    "team": "PHI",
+    "position": "RB",
+    "byeWeek": 9,
+    "rookie": "no"
   },
   {
-    "Name": "Keenan Allen",
-    "Team": "FA",
-    "Position": "WR",
-    "Bye Week": "",
-    "Rookie": "no"
+    "name": "Keenan Allen",
+    "team": "FA",
+    "position": "WR",
+    "byeWeek": "",
+    "rookie": "no"
   },
   {
-    "Name": "Kyle Monangai",
-    "Team": "CHI",
-    "Position": "RB",
-    "Bye Week": 5,
-    "Rookie": "no"
+    "name": "Kyle Monangai",
+    "team": "CHI",
+    "position": "RB",
+    "byeWeek": 5,
+    "rookie": "no"
   },
   {
-    "Name": "Elijah Mitchell",
-    "Team": "KC",
-    "Position": "RB",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "Elijah Mitchell",
+    "team": "KC",
+    "position": "RB",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "Younghoe Koo",
-    "Team": "ATL",
-    "Position": "K",
-    "Bye Week": 5,
-    "Rookie": "no"
+    "name": "Younghoe Koo",
+    "team": "ATL",
+    "position": "K",
+    "byeWeek": 5,
+    "rookie": "no"
   },
   {
-    "Name": "Keaton Mitchell",
-    "Team": "BAL",
-    "Position": "RB",
-    "Bye Week": 7,
-    "Rookie": "no"
+    "name": "Keaton Mitchell",
+    "team": "BAL",
+    "position": "RB",
+    "byeWeek": 7,
+    "rookie": "no"
   },
   {
-    "Name": "Ja'Tavion Sanders",
-    "Team": "CAR",
-    "Position": "TE",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "Ja'Tavion Sanders",
+    "team": "CAR",
+    "position": "TE",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Jalen Tolbert",
-    "Team": "DAL",
-    "Position": "WR",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "Jalen Tolbert",
+    "team": "DAL",
+    "position": "WR",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "Tyler Lockett",
-    "Team": "TEN",
-    "Position": "WR",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "Tyler Lockett",
+    "team": "TEN",
+    "position": "WR",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "Juwan Johnson",
-    "Team": "NO",
-    "Position": "TE",
-    "Bye Week": 11,
-    "Rookie": "no"
+    "name": "Juwan Johnson",
+    "team": "NO",
+    "position": "TE",
+    "byeWeek": 11,
+    "rookie": "no"
   },
   {
-    "Name": "Devaughn Vele",
-    "Team": "DEN",
-    "Position": "WR",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Devaughn Vele",
+    "team": "DEN",
+    "position": "WR",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Anthony Richardson Sr.",
-    "Team": "IND",
-    "Position": "QB",
-    "Bye Week": 11,
-    "Rookie": "no"
+    "name": "Anthony Richardson Sr.",
+    "team": "IND",
+    "position": "QB",
+    "byeWeek": 11,
+    "rookie": "no"
   },
   {
-    "Name": "Raheem Mostert",
-    "Team": "LV",
-    "Position": "RB",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Raheem Mostert",
+    "team": "LV",
+    "position": "RB",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Nick Westbrook-Ikhine",
-    "Team": "MIA",
-    "Position": "WR",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Nick Westbrook-Ikhine",
+    "team": "MIA",
+    "position": "WR",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Elic Ayomanor",
-    "Team": "TEN",
-    "Position": "WR",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "Elic Ayomanor",
+    "team": "TEN",
+    "position": "WR",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "Russell Wilson",
-    "Team": "NYG",
-    "Position": "QB",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "Russell Wilson",
+    "team": "NYG",
+    "position": "QB",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Dallas Cowboys",
-    "Team": "DAL",
-    "Position": "DEF",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "Dallas Cowboys",
+    "team": "DAL",
+    "position": "DEF",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "Pat Bryant",
-    "Team": "DEN",
-    "Position": "WR",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Pat Bryant",
+    "team": "DEN",
+    "position": "WR",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Jarquez Hunter",
-    "Team": "LAR",
-    "Position": "RB",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Jarquez Hunter",
+    "team": "LAR",
+    "position": "RB",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Kayshon Boutte",
-    "Team": "NE",
-    "Position": "WR",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "Kayshon Boutte",
+    "team": "NE",
+    "position": "WR",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Devin Singletary",
-    "Team": "NYG",
-    "Position": "RB",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "Devin Singletary",
+    "team": "NYG",
+    "position": "RB",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Brandin Cooks",
-    "Team": "NO",
-    "Position": "WR",
-    "Bye Week": 11,
-    "Rookie": "no"
+    "name": "Brandin Cooks",
+    "team": "NO",
+    "position": "WR",
+    "byeWeek": 11,
+    "rookie": "no"
   },
   {
-    "Name": "Mike Williams",
-    "Team": "LAC",
-    "Position": "WR",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Mike Williams",
+    "team": "LAC",
+    "position": "WR",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Tampa Bay Buccaneers",
-    "Team": "TB",
-    "Position": "DEF",
-    "Bye Week": 9,
-    "Rookie": "no"
+    "name": "Tampa Bay Buccaneers",
+    "team": "TB",
+    "position": "DEF",
+    "byeWeek": 9,
+    "rookie": "no"
   },
   {
-    "Name": "Joshua Karty",
-    "Team": "LAR",
-    "Position": "K4",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Joshua Karty",
+    "team": "LAR",
+    "position": "K4",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Diontae Johnson",
-    "Team": "CLE",
-    "Position": "WR",
-    "Bye Week": 9,
-    "Rookie": "no"
+    "name": "Diontae Johnson",
+    "team": "CLE",
+    "position": "WR",
+    "byeWeek": 9,
+    "rookie": "no"
   },
   {
-    "Name": "Ollie Gordon II",
-    "Team": "MIA",
-    "Position": "RB",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Ollie Gordon II",
+    "team": "MIA",
+    "position": "RB",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Antonio Gibson",
-    "Team": "NE",
-    "Position": "RB",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "Antonio Gibson",
+    "team": "NE",
+    "position": "RB",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Matt Gay",
-    "Team": "WAS",
-    "Position": "K5",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Matt Gay",
+    "team": "WAS",
+    "position": "K5",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Amari Cooper",
-    "Team": "FA",
-    "Position": "WR",
-    "Bye Week": "",
-    "Rookie": "no"
+    "name": "Amari Cooper",
+    "team": "FA",
+    "position": "WR",
+    "byeWeek": "",
+    "rookie": "no"
   },
   {
-    "Name": "Elijah Arroyo",
-    "Team": "SEA",
-    "Position": "TE",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Elijah Arroyo",
+    "team": "SEA",
+    "position": "TE",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Tahj Brooks",
-    "Team": "CIN",
-    "Position": "RB",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "Tahj Brooks",
+    "team": "CIN",
+    "position": "RB",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "Brashard Smith",
-    "Team": "KC",
-    "Position": "RB",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "Brashard Smith",
+    "team": "KC",
+    "position": "RB",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "Kenneth Gainwell",
-    "Team": "PIT",
-    "Position": "RB",
-    "Bye Week": 5,
-    "Rookie": "no"
+    "name": "Kenneth Gainwell",
+    "team": "PIT",
+    "position": "RB",
+    "byeWeek": 5,
+    "rookie": "no"
   },
   {
-    "Name": "Trevor Etienne",
-    "Team": "CAR",
-    "Position": "RB",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "Trevor Etienne",
+    "team": "CAR",
+    "position": "RB",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Jalen Royals",
-    "Team": "KC",
-    "Position": "WR",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "Jalen Royals",
+    "team": "KC",
+    "position": "WR",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "Dyami Brown",
-    "Team": "JAC",
-    "Position": "WR",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Dyami Brown",
+    "team": "JAC",
+    "position": "WR",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Daniel Jones",
-    "Team": "IND",
-    "Position": "QB",
-    "Bye Week": 11,
-    "Rookie": "no"
+    "name": "Daniel Jones",
+    "team": "IND",
+    "position": "QB",
+    "byeWeek": 11,
+    "rookie": "no"
   },
   {
-    "Name": "Noah Gray",
-    "Team": "KC",
-    "Position": "TE",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "Noah Gray",
+    "team": "KC",
+    "position": "TE",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "Elijah Moore",
-    "Team": "BUF",
-    "Position": "WR",
-    "Bye Week": 7,
-    "Rookie": "no"
+    "name": "Elijah Moore",
+    "team": "BUF",
+    "position": "WR",
+    "byeWeek": 7,
+    "rookie": "no"
   },
   {
-    "Name": "Sean Tucker",
-    "Team": "TB",
-    "Position": "RB",
-    "Bye Week": 9,
-    "Rookie": "no"
+    "name": "Sean Tucker",
+    "team": "TB",
+    "position": "RB",
+    "byeWeek": 9,
+    "rookie": "no"
   },
   {
-    "Name": "Malik Washington",
-    "Team": "MIA",
-    "Position": "WR",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Malik Washington",
+    "team": "MIA",
+    "position": "WR",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Cleveland Browns",
-    "Team": "CLE",
-    "Position": "DEF",
-    "Bye Week": 9,
-    "Rookie": "no"
+    "name": "Cleveland Browns",
+    "team": "CLE",
+    "position": "DEF",
+    "byeWeek": 9,
+    "rookie": "no"
   },
   {
-    "Name": "Roman Wilson",
-    "Team": "PIT",
-    "Position": "WR",
-    "Bye Week": 5,
-    "Rookie": "no"
+    "name": "Roman Wilson",
+    "team": "PIT",
+    "position": "WR",
+    "byeWeek": 5,
+    "rookie": "no"
   },
   {
-    "Name": "Harold Fannin Jr.",
-    "Team": "CLE",
-    "Position": "TE",
-    "Bye Week": 9,
-    "Rookie": "no"
+    "name": "Harold Fannin Jr.",
+    "team": "CLE",
+    "position": "TE",
+    "byeWeek": 9,
+    "rookie": "no"
   },
   {
-    "Name": "Noah Fant",
-    "Team": "SEA",
-    "Position": "TE",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Noah Fant",
+    "team": "SEA",
+    "position": "TE",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Khalil Herbert",
-    "Team": "IND",
-    "Position": "RB",
-    "Bye Week": 11,
-    "Rookie": "no"
+    "name": "Khalil Herbert",
+    "team": "IND",
+    "position": "RB",
+    "byeWeek": 11,
+    "rookie": "no"
   },
   {
-    "Name": "Zack Moss",
-    "Team": "CIN",
-    "Position": "RB",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "Zack Moss",
+    "team": "CIN",
+    "position": "RB",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "Ty Johnson",
-    "Team": "BUF",
-    "Position": "RB",
-    "Bye Week": 7,
-    "Rookie": "no"
+    "name": "Ty Johnson",
+    "team": "BUF",
+    "position": "RB",
+    "byeWeek": 7,
+    "rookie": "no"
   },
   {
-    "Name": "Isaiah Davis",
-    "Team": "NYJ",
-    "Position": "RB",
-    "Bye Week": 9,
-    "Rookie": "no"
+    "name": "Isaiah Davis",
+    "team": "NYJ",
+    "position": "RB",
+    "byeWeek": 9,
+    "rookie": "no"
   },
   {
-    "Name": "Tim Patrick",
-    "Team": "DET",
-    "Position": "WR",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Tim Patrick",
+    "team": "DET",
+    "position": "WR",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Jordan James",
-    "Team": "SF",
-    "Position": "RB",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "Jordan James",
+    "team": "SF",
+    "position": "RB",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Alexander Mattison",
-    "Team": "MIA",
-    "Position": "RB",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Alexander Mattison",
+    "team": "MIA",
+    "position": "RB",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Tre Tucker",
-    "Team": "LV",
-    "Position": "WR",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Tre Tucker",
+    "team": "LV",
+    "position": "WR",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Woody Marks",
-    "Team": "HOU",
-    "Position": "RB",
-    "Bye Week": 6,
-    "Rookie": "no"
+    "name": "Woody Marks",
+    "team": "HOU",
+    "position": "RB",
+    "byeWeek": 6,
+    "rookie": "no"
   },
   {
-    "Name": "Taysom Hill",
-    "Team": "NO",
-    "Position": "TE",
-    "Bye Week": 11,
-    "Rookie": "no"
+    "name": "Taysom Hill",
+    "team": "NO",
+    "position": "TE",
+    "byeWeek": 11,
+    "rookie": "no"
   },
   {
-    "Name": "Theo Johnson",
-    "Team": "NYG",
-    "Position": "TE",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "Theo Johnson",
+    "team": "NYG",
+    "position": "TE",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Xavier Restrepo",
-    "Team": "TEN",
-    "Position": "WR",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "Xavier Restrepo",
+    "team": "TEN",
+    "position": "WR",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "Chicago Bears",
-    "Team": "CHI",
-    "Position": "DEF",
-    "Bye Week": 5,
-    "Rookie": "no"
+    "name": "Chicago Bears",
+    "team": "CHI",
+    "position": "DEF",
+    "byeWeek": 5,
+    "rookie": "no"
   },
   {
-    "Name": "Tyler Shough",
-    "Team": "NO",
-    "Position": "QB",
-    "Bye Week": 11,
-    "Rookie": "no"
+    "name": "Tyler Shough",
+    "team": "NO",
+    "position": "QB",
+    "byeWeek": 11,
+    "rookie": "no"
   },
   {
-    "Name": "Dameon Pierce",
-    "Team": "HOU",
-    "Position": "RB",
-    "Bye Week": 6,
-    "Rookie": "no"
+    "name": "Dameon Pierce",
+    "team": "HOU",
+    "position": "RB",
+    "byeWeek": 6,
+    "rookie": "no"
   },
   {
-    "Name": "Jalen Nailor",
-    "Team": "MIN",
-    "Position": "WR",
-    "Bye Week": 6,
-    "Rookie": "no"
+    "name": "Jalen Nailor",
+    "team": "MIN",
+    "position": "WR",
+    "byeWeek": 6,
+    "rookie": "no"
   },
   {
-    "Name": "Daniel Carlson",
-    "Team": "LV",
-    "Position": "K6",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Daniel Carlson",
+    "team": "LV",
+    "position": "K6",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Joe Flacco",
-    "Team": "CLE",
-    "Position": "QB",
-    "Bye Week": 9,
-    "Rookie": "no"
+    "name": "Joe Flacco",
+    "team": "CLE",
+    "position": "QB",
+    "byeWeek": 9,
+    "rookie": "no"
   },
   {
-    "Name": "Christian Watson",
-    "Team": "GB",
-    "Position": "WR",
-    "Bye Week": 5,
-    "Rookie": "no"
+    "name": "Christian Watson",
+    "team": "GB",
+    "position": "WR",
+    "byeWeek": 5,
+    "rookie": "no"
   },
   {
-    "Name": "Terrance Ferguson",
-    "Team": "LAR",
-    "Position": "TE",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Terrance Ferguson",
+    "team": "LAR",
+    "position": "TE",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Sincere McCormick",
-    "Team": "LV",
-    "Position": "RB",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Sincere McCormick",
+    "team": "LV",
+    "position": "RB",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Gabe Davis",
-    "Team": "FA",
-    "Position": "WR",
-    "Bye Week": "",
-    "Rookie": "no"
+    "name": "Gabe Davis",
+    "team": "FA",
+    "position": "WR",
+    "byeWeek": "",
+    "rookie": "no"
   },
   {
-    "Name": "Parker Washington",
-    "Team": "JAC",
-    "Position": "WR",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Parker Washington",
+    "team": "JAC",
+    "position": "WR",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Kimani Vidal",
-    "Team": "LAC",
-    "Position": "RB",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Kimani Vidal",
+    "team": "LAC",
+    "position": "RB",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Jaxson Dart",
-    "Team": "NYG",
-    "Position": "QB",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "Jaxson Dart",
+    "team": "NYG",
+    "position": "QB",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Damien Martinez",
-    "Team": "SEA",
-    "Position": "RB",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Damien Martinez",
+    "team": "SEA",
+    "position": "RB",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Tory Horton",
-    "Team": "SEA",
-    "Position": "WR",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Tory Horton",
+    "team": "SEA",
+    "position": "WR",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Luke McCaffrey",
-    "Team": "WAS",
-    "Position": "WR",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Luke McCaffrey",
+    "team": "WAS",
+    "position": "WR",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Oronde Gadsden II",
-    "Team": "LAC",
-    "Position": "TE",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Oronde Gadsden II",
+    "team": "LAC",
+    "position": "TE",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Darren Waller",
-    "Team": "MIA",
-    "Position": "TE",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Darren Waller",
+    "team": "MIA",
+    "position": "TE",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Ty Chandler",
-    "Team": "MIN",
-    "Position": "RB",
-    "Bye Week": 6,
-    "Rookie": "no"
+    "name": "Ty Chandler",
+    "team": "MIN",
+    "position": "RB",
+    "byeWeek": 6,
+    "rookie": "no"
   },
   {
-    "Name": "Emanuel Wilson",
-    "Team": "GB",
-    "Position": "RB",
-    "Bye Week": 5,
-    "Rookie": "no"
+    "name": "Emanuel Wilson",
+    "team": "GB",
+    "position": "RB",
+    "byeWeek": 5,
+    "rookie": "no"
   },
   {
-    "Name": "Isaac TeSlaa",
-    "Team": "DET",
-    "Position": "WR",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Isaac TeSlaa",
+    "team": "DET",
+    "position": "WR",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Jason Myers",
-    "Team": "SEA",
-    "Position": "K7",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Jason Myers",
+    "team": "SEA",
+    "position": "K7",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Tyler Higbee",
-    "Team": "LAR",
-    "Position": "TE",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Tyler Higbee",
+    "team": "LAR",
+    "position": "TE",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Jermaine Burton",
-    "Team": "CIN",
-    "Position": "WR",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "Jermaine Burton",
+    "team": "CIN",
+    "position": "WR",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "Phil Mafah",
-    "Team": "DAL",
-    "Position": "RB",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "Phil Mafah",
+    "team": "DAL",
+    "position": "RB",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "Chris Brooks",
-    "Team": "GB",
-    "Position": "RB",
-    "Bye Week": 5,
-    "Rookie": "no"
+    "name": "Chris Brooks",
+    "team": "GB",
+    "position": "RB",
+    "byeWeek": 5,
+    "rookie": "no"
   },
   {
-    "Name": "Tez Johnson",
-    "Team": "TB",
-    "Position": "WR",
-    "Bye Week": 9,
-    "Rookie": "no"
+    "name": "Tez Johnson",
+    "team": "TB",
+    "position": "WR",
+    "byeWeek": 9,
+    "rookie": "no"
   },
   {
-    "Name": "Will Dissly",
-    "Team": "LAC",
-    "Position": "TE",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Will Dissly",
+    "team": "LAC",
+    "position": "TE",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Ben Sinnott",
-    "Team": "WAS",
-    "Position": "TE",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Ben Sinnott",
+    "team": "WAS",
+    "position": "TE",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Shedeur Sanders",
-    "Team": "CLE",
-    "Position": "QB",
-    "Bye Week": 9,
-    "Rookie": "no"
+    "name": "Shedeur Sanders",
+    "team": "CLE",
+    "position": "QB",
+    "byeWeek": 9,
+    "rookie": "no"
   },
   {
-    "Name": "Chris Rodriguez Jr.",
-    "Team": "WAS",
-    "Position": "RB",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Chris Rodriguez Jr.",
+    "team": "WAS",
+    "position": "RB",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Tyler Loop",
-    "Team": "BAL",
-    "Position": "K8",
-    "Bye Week": 7,
-    "Rookie": "no"
+    "name": "Tyler Loop",
+    "team": "BAL",
+    "position": "K8",
+    "byeWeek": 7,
+    "rookie": "no"
   },
   {
-    "Name": "Tutu Atwell",
-    "Team": "LAR",
-    "Position": "WR",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Tutu Atwell",
+    "team": "LAR",
+    "position": "WR",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Dont'e Thornton Jr.",
-    "Team": "LV",
-    "Position": "WR",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Dont'e Thornton Jr.",
+    "team": "LV",
+    "position": "WR",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Tyler Conklin",
-    "Team": "LAC",
-    "Position": "TE",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Tyler Conklin",
+    "team": "LAC",
+    "position": "TE",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "New England Patriots",
-    "Team": "NE",
-    "Position": "DEF",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "New England Patriots",
+    "team": "NE",
+    "position": "DEF",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Will Reichard",
-    "Team": "MIN",
-    "Position": "K9",
-    "Bye Week": 6,
-    "Rookie": "no"
+    "name": "Will Reichard",
+    "team": "MIN",
+    "position": "K9",
+    "byeWeek": 6,
+    "rookie": "no"
   },
   {
-    "Name": "Gus Edwards",
-    "Team": "FA",
-    "Position": "RB",
-    "Bye Week": "",
-    "Rookie": "no"
+    "name": "Gus Edwards",
+    "team": "FA",
+    "position": "RB",
+    "byeWeek": "",
+    "rookie": "no"
   },
   {
-    "Name": "Miami Dolphins",
-    "Team": "MIA",
-    "Position": "DEF",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Miami Dolphins",
+    "team": "MIA",
+    "position": "DEF",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Raheim Sanders",
-    "Team": "LAC",
-    "Position": "RB",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Raheim Sanders",
+    "team": "LAC",
+    "position": "RB",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Jordan Whittington",
-    "Team": "LAR",
-    "Position": "WR",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Jordan Whittington",
+    "team": "LAR",
+    "position": "WR",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Jacory Croskey-Merritt",
-    "Team": "WAS",
-    "Position": "RB",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Jacory Croskey-Merritt",
+    "team": "WAS",
+    "position": "RB",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Ray-Ray McCloud III",
-    "Team": "ATL",
-    "Position": "WR",
-    "Bye Week": 5,
-    "Rookie": "no"
+    "name": "Ray-Ray McCloud III",
+    "team": "ATL",
+    "position": "WR",
+    "byeWeek": 5,
+    "rookie": "no"
   },
   {
-    "Name": "Tai Felton",
-    "Team": "MIN",
-    "Position": "WR",
-    "Bye Week": 6,
-    "Rookie": "no"
+    "name": "Tai Felton",
+    "team": "MIN",
+    "position": "WR",
+    "byeWeek": 6,
+    "rookie": "no"
   },
   {
-    "Name": "Arizona Cardinals",
-    "Team": "ARI",
-    "Position": "DEF",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Arizona Cardinals",
+    "team": "ARI",
+    "position": "DEF",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "John Metchie III",
-    "Team": "HOU",
-    "Position": "WR",
-    "Bye Week": 6,
-    "Rookie": "no"
+    "name": "John Metchie III",
+    "team": "HOU",
+    "position": "WR",
+    "byeWeek": 6,
+    "rookie": "no"
   },
   {
-    "Name": "Zamir White",
-    "Team": "LV",
-    "Position": "RB",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Zamir White",
+    "team": "LV",
+    "position": "RB",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Jalen Milroe",
-    "Team": "SEA",
-    "Position": "QB",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Jalen Milroe",
+    "team": "SEA",
+    "position": "QB",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Demarcus Robinson",
-    "Team": "SF",
-    "Position": "WR",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "Demarcus Robinson",
+    "team": "SF",
+    "position": "WR",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Marquez Valdes-Scantling",
-    "Team": "SEA",
-    "Position": "WR",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Marquez Valdes-Scantling",
+    "team": "SEA",
+    "position": "WR",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "A.J. Dillon",
-    "Team": "PHI",
-    "Position": "RB",
-    "Bye Week": 9,
-    "Rookie": "no"
+    "name": "A.J. Dillon",
+    "team": "PHI",
+    "position": "RB",
+    "byeWeek": 9,
+    "rookie": "no"
   },
   {
-    "Name": "Cam Akers",
-    "Team": "NO",
-    "Position": "RB",
-    "Bye Week": 11,
-    "Rookie": "no"
+    "name": "Cam Akers",
+    "team": "NO",
+    "position": "RB",
+    "byeWeek": 11,
+    "rookie": "no"
   },
   {
-    "Name": "Dawson Knox",
-    "Team": "BUF",
-    "Position": "TE",
-    "Bye Week": 7,
-    "Rookie": "no"
+    "name": "Dawson Knox",
+    "team": "BUF",
+    "position": "TE",
+    "byeWeek": 7,
+    "rookie": "no"
   },
   {
-    "Name": "Troy Franklin",
-    "Team": "DEN",
-    "Position": "WR",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Troy Franklin",
+    "team": "DEN",
+    "position": "WR",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "New York Giants",
-    "Team": "NYG",
-    "Position": "DEF",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "New York Giants",
+    "team": "NYG",
+    "position": "DEF",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Savion Williams",
-    "Team": "GB",
-    "Position": "WR",
-    "Bye Week": 5,
-    "Rookie": "no"
+    "name": "Savion Williams",
+    "team": "GB",
+    "position": "WR",
+    "byeWeek": 5,
+    "rookie": "no"
   },
   {
-    "Name": "Justin Tucker",
-    "Team": "FA",
-    "Position": "K0",
-    "Bye Week": "",
-    "Rookie": "no"
+    "name": "Justin Tucker",
+    "team": "FA",
+    "position": "K0",
+    "byeWeek": "",
+    "rookie": "no"
   },
   {
-    "Name": "Samaje Perine",
-    "Team": "CIN",
-    "Position": "RB",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "Samaje Perine",
+    "team": "CIN",
+    "position": "RB",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "Josh Reynolds",
-    "Team": "NYJ",
-    "Position": "WR",
-    "Bye Week": 9,
-    "Rookie": "no"
+    "name": "Josh Reynolds",
+    "team": "NYJ",
+    "position": "WR",
+    "byeWeek": 9,
+    "rookie": "no"
   },
   {
-    "Name": "KaVontae Turpin",
-    "Team": "DAL",
-    "Position": "WR",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "KaVontae Turpin",
+    "team": "DAL",
+    "position": "WR",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "Michael Mayer",
-    "Team": "LV",
-    "Position": "TE",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Michael Mayer",
+    "team": "LV",
+    "position": "TE",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Donovan Edwards",
-    "Team": "NYJ",
-    "Position": "RB",
-    "Bye Week": 9,
-    "Rookie": "no"
+    "name": "Donovan Edwards",
+    "team": "NYJ",
+    "position": "RB",
+    "byeWeek": 9,
+    "rookie": "no"
   },
   {
-    "Name": "Jake Moody",
-    "Team": "SF",
-    "Position": "K",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "Jake Moody",
+    "team": "SF",
+    "position": "K",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Noah Brown",
-    "Team": "WAS",
-    "Position": "WR",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Noah Brown",
+    "team": "WAS",
+    "position": "WR",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Tank Dell",
-    "Team": "HOU",
-    "Position": "WR",
-    "Bye Week": 6,
-    "Rookie": "no"
+    "name": "Tank Dell",
+    "team": "HOU",
+    "position": "WR",
+    "byeWeek": 6,
+    "rookie": "no"
   },
   {
-    "Name": "Brandon McManus",
-    "Team": "GB",
-    "Position": "K",
-    "Bye Week": 5,
-    "Rookie": "no"
+    "name": "Brandon McManus",
+    "team": "GB",
+    "position": "K",
+    "byeWeek": 5,
+    "rookie": "no"
   },
   {
-    "Name": "Luke Musgrave",
-    "Team": "GB",
-    "Position": "TE",
-    "Bye Week": 5,
-    "Rookie": "no"
+    "name": "Luke Musgrave",
+    "team": "GB",
+    "position": "TE",
+    "byeWeek": 5,
+    "rookie": "no"
   },
   {
-    "Name": "Isaiah Bond",
-    "Team": "FA",
-    "Position": "WR",
-    "Bye Week": "",
-    "Rookie": "no"
+    "name": "Isaiah Bond",
+    "team": "FA",
+    "position": "WR",
+    "byeWeek": "",
+    "rookie": "no"
   },
   {
-    "Name": "Chimere Dike",
-    "Team": "TEN",
-    "Position": "WR",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "Chimere Dike",
+    "team": "TEN",
+    "position": "WR",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "Kirk Cousins",
-    "Team": "ATL",
-    "Position": "QB",
-    "Bye Week": 5,
-    "Rookie": "no"
+    "name": "Kirk Cousins",
+    "team": "ATL",
+    "position": "QB",
+    "byeWeek": 5,
+    "rookie": "no"
   },
   {
-    "Name": "Allen Lazard",
-    "Team": "NYJ",
-    "Position": "WR",
-    "Bye Week": 9,
-    "Rookie": "no"
+    "name": "Allen Lazard",
+    "team": "NYJ",
+    "position": "WR",
+    "byeWeek": 9,
+    "rookie": "no"
   },
   {
-    "Name": "Jameis Winston",
-    "Team": "NYG",
-    "Position": "QB",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "Jameis Winston",
+    "team": "NYG",
+    "position": "QB",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Cam Little",
-    "Team": "JAC",
-    "Position": "K",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Cam Little",
+    "team": "JAC",
+    "position": "K",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Spencer Rattler",
-    "Team": "NO",
-    "Position": "QB",
-    "Bye Week": 11,
-    "Rookie": "no"
+    "name": "Spencer Rattler",
+    "team": "NO",
+    "position": "QB",
+    "byeWeek": 11,
+    "rookie": "no"
   },
   {
-    "Name": "Mack Hollins",
-    "Team": "NE",
-    "Position": "WR",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "Mack Hollins",
+    "team": "NE",
+    "position": "WR",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Kenny Pickett",
-    "Team": "CLE",
-    "Position": "QB",
-    "Bye Week": 9,
-    "Rookie": "no"
+    "name": "Kenny Pickett",
+    "team": "CLE",
+    "position": "QB",
+    "byeWeek": 9,
+    "rookie": "no"
   },
   {
-    "Name": "Curtis Samuel",
-    "Team": "BUF",
-    "Position": "WR",
-    "Bye Week": 7,
-    "Rookie": "no"
+    "name": "Curtis Samuel",
+    "team": "BUF",
+    "position": "WR",
+    "byeWeek": 7,
+    "rookie": "no"
   },
   {
-    "Name": "Austin Hooper",
-    "Team": "NE",
-    "Position": "TE",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "Austin Hooper",
+    "team": "NE",
+    "position": "TE",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Jaylin Lane",
-    "Team": "WAS",
-    "Position": "WR",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Jaylin Lane",
+    "team": "WAS",
+    "position": "WR",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Gunnar Helm",
-    "Team": "TEN",
-    "Position": "TE",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "Gunnar Helm",
+    "team": "TEN",
+    "position": "TE",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "Greg Dortch",
-    "Team": "ARI",
-    "Position": "WR",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Greg Dortch",
+    "team": "ARI",
+    "position": "WR",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Atlanta Falcons",
-    "Team": "ATL",
-    "Position": "DEF",
-    "Bye Week": 5,
-    "Rookie": "no"
+    "name": "Atlanta Falcons",
+    "team": "ATL",
+    "position": "DEF",
+    "byeWeek": 5,
+    "rookie": "no"
   },
   {
-    "Name": "Trey Sermon",
-    "Team": "PIT",
-    "Position": "RB",
-    "Bye Week": 5,
-    "Rookie": "no"
+    "name": "Trey Sermon",
+    "team": "PIT",
+    "position": "RB",
+    "byeWeek": 5,
+    "rookie": "no"
   },
   {
-    "Name": "Robert Woods",
-    "Team": "PIT",
-    "Position": "WR",
-    "Bye Week": 5,
-    "Rookie": "no"
+    "name": "Robert Woods",
+    "team": "PIT",
+    "position": "WR",
+    "byeWeek": 5,
+    "rookie": "no"
   },
   {
-    "Name": "Jeremy McNichols",
-    "Team": "WAS",
-    "Position": "RB",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Jeremy McNichols",
+    "team": "WAS",
+    "position": "RB",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Ameer Abdullah",
-    "Team": "FA",
-    "Position": "RB",
-    "Bye Week": "",
-    "Rookie": "no"
+    "name": "Ameer Abdullah",
+    "team": "FA",
+    "position": "RB",
+    "byeWeek": "",
+    "rookie": "no"
   },
   {
-    "Name": "LeQuint Allen Jr.",
-    "Team": "JAC",
-    "Position": "RB",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "LeQuint Allen Jr.",
+    "team": "JAC",
+    "position": "RB",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Washington Commanders",
-    "Team": "WAS",
-    "Position": "DEF",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Washington Commanders",
+    "team": "WAS",
+    "position": "DEF",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Will Levis",
-    "Team": "TEN",
-    "Position": "QB",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "Will Levis",
+    "team": "TEN",
+    "position": "QB",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "Van Jefferson",
-    "Team": "TEN",
-    "Position": "WR",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "Van Jefferson",
+    "team": "TEN",
+    "position": "WR",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "Eddy Pineiro",
-    "Team": "FA",
-    "Position": "K",
-    "Bye Week": "",
-    "Rookie": "no"
+    "name": "Eddy Pineiro",
+    "team": "FA",
+    "position": "K",
+    "byeWeek": "",
+    "rookie": "no"
   },
   {
-    "Name": "Matt Prater",
-    "Team": "FA",
-    "Position": "K",
-    "Bye Week": "",
-    "Rookie": "no"
+    "name": "Matt Prater",
+    "team": "FA",
+    "position": "K",
+    "byeWeek": "",
+    "rookie": "no"
   },
   {
-    "Name": "Blake Grupe",
-    "Team": "NO",
-    "Position": "K",
-    "Bye Week": 11,
-    "Rookie": "no"
+    "name": "Blake Grupe",
+    "team": "NO",
+    "position": "K",
+    "byeWeek": 11,
+    "rookie": "no"
   },
   {
-    "Name": "Foster Moreau",
-    "Team": "NO",
-    "Position": "TE",
-    "Bye Week": 11,
-    "Rookie": "no"
+    "name": "Foster Moreau",
+    "team": "NO",
+    "position": "TE",
+    "byeWeek": 11,
+    "rookie": "no"
   },
   {
-    "Name": "Ja'Quinden Jackson",
-    "Team": "JAC",
-    "Position": "RB",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Ja'Quinden Jackson",
+    "team": "JAC",
+    "position": "RB",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Emari Demercado",
-    "Team": "ARI",
-    "Position": "RB",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Emari Demercado",
+    "team": "ARI",
+    "position": "RB",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Tommy Tremble",
-    "Team": "CAR",
-    "Position": "TE",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "Tommy Tremble",
+    "team": "CAR",
+    "position": "TE",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Theo Wease Jr.",
-    "Team": "MIA",
-    "Position": "WR",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Theo Wease Jr.",
+    "team": "MIA",
+    "position": "WR",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Jahan Dotson",
-    "Team": "PHI",
-    "Position": "WR",
-    "Bye Week": 9,
-    "Rookie": "no"
+    "name": "Jahan Dotson",
+    "team": "PHI",
+    "position": "WR",
+    "byeWeek": 9,
+    "rookie": "no"
   },
   {
-    "Name": "Cairo Santos",
-    "Team": "CHI",
-    "Position": "K",
-    "Bye Week": 5,
-    "Rookie": "no"
+    "name": "Cairo Santos",
+    "team": "CHI",
+    "position": "K",
+    "byeWeek": 5,
+    "rookie": "no"
   },
   {
-    "Name": "Antwane Wells Jr.",
-    "Team": "NYG",
-    "Position": "WR",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "Antwane Wells Jr.",
+    "team": "NYG",
+    "position": "WR",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Mason Rudolph",
-    "Team": "PIT",
-    "Position": "QB",
-    "Bye Week": 5,
-    "Rookie": "no"
+    "name": "Mason Rudolph",
+    "team": "PIT",
+    "position": "QB",
+    "byeWeek": 5,
+    "rookie": "no"
   },
   {
-    "Name": "Kalel Mullings",
-    "Team": "TEN",
-    "Position": "RB",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "Kalel Mullings",
+    "team": "TEN",
+    "position": "RB",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "Kendrick Bourne",
-    "Team": "NE",
-    "Position": "WR",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "Kendrick Bourne",
+    "team": "NE",
+    "position": "WR",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Chad Ryland",
-    "Team": "ARI",
-    "Position": "K",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Chad Ryland",
+    "team": "ARI",
+    "position": "K",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Olamide Zaccheaus",
-    "Team": "CHI",
-    "Position": "WR",
-    "Bye Week": 5,
-    "Rookie": "no"
+    "name": "Olamide Zaccheaus",
+    "team": "CHI",
+    "position": "WR",
+    "byeWeek": 5,
+    "rookie": "no"
   },
   {
-    "Name": "Dillon Gabriel",
-    "Team": "CLE",
-    "Position": "QB",
-    "Bye Week": 9,
-    "Rookie": "no"
+    "name": "Dillon Gabriel",
+    "team": "CLE",
+    "position": "QB",
+    "byeWeek": 9,
+    "rookie": "no"
   },
   {
-    "Name": "Arian Smith",
-    "Team": "NYJ",
-    "Position": "WR",
-    "Bye Week": 9,
-    "Rookie": "no"
+    "name": "Arian Smith",
+    "team": "NYJ",
+    "position": "WR",
+    "byeWeek": 9,
+    "rookie": "no"
   },
   {
-    "Name": "Luke Schoonmaker",
-    "Team": "DAL",
-    "Position": "TE",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "Luke Schoonmaker",
+    "team": "DAL",
+    "position": "TE",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "Craig Reynolds",
-    "Team": "DET",
-    "Position": "RB",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Craig Reynolds",
+    "team": "DET",
+    "position": "RB",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "D'Ernest Johnson",
-    "Team": "FA",
-    "Position": "RB",
-    "Bye Week": "",
-    "Rookie": "no"
+    "name": "D'Ernest Johnson",
+    "team": "FA",
+    "position": "RB",
+    "byeWeek": "",
+    "rookie": "no"
   },
   {
-    "Name": "Jonathon Brooks",
-    "Team": "CAR",
-    "Position": "RB",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "Jonathon Brooks",
+    "team": "CAR",
+    "position": "RB",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Jalin Hyatt",
-    "Team": "NYG",
-    "Position": "WR",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "Jalin Hyatt",
+    "team": "NYG",
+    "position": "WR",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Stone Smartt",
-    "Team": "NYJ",
-    "Position": "TE",
-    "Bye Week": 9,
-    "Rookie": "no"
+    "name": "Stone Smartt",
+    "team": "NYJ",
+    "position": "TE",
+    "byeWeek": 9,
+    "rookie": "no"
   },
   {
-    "Name": "New Orleans Saints",
-    "Team": "NO",
-    "Position": "DEF",
-    "Bye Week": 11,
-    "Rookie": "no"
+    "name": "New Orleans Saints",
+    "team": "NO",
+    "position": "DEF",
+    "byeWeek": 11,
+    "rookie": "no"
   },
   {
-    "Name": "Indianapolis Colts",
-    "Team": "IND",
-    "Position": "DEF",
-    "Bye Week": 11,
-    "Rookie": "no"
+    "name": "Indianapolis Colts",
+    "team": "IND",
+    "position": "DEF",
+    "byeWeek": 11,
+    "rookie": "no"
   },
   {
-    "Name": "Ja'Lynn Polk",
-    "Team": "NE",
-    "Position": "WR",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "Ja'Lynn Polk",
+    "team": "NE",
+    "position": "WR",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Cordarrelle Patterson",
-    "Team": "PIT",
-    "Position": "RB",
-    "Bye Week": 5,
-    "Rookie": "no"
+    "name": "Cordarrelle Patterson",
+    "team": "PIT",
+    "position": "RB",
+    "byeWeek": 5,
+    "rookie": "no"
   },
   {
-    "Name": "Graham Gano",
-    "Team": "NYG",
-    "Position": "K",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "Graham Gano",
+    "team": "NYG",
+    "position": "K",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Hunter Luepke",
-    "Team": "DAL",
-    "Position": "RB",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "Hunter Luepke",
+    "team": "DAL",
+    "position": "RB",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "Cincinnati Bengals",
-    "Team": "CIN",
-    "Position": "DEF",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "Cincinnati Bengals",
+    "team": "CIN",
+    "position": "DEF",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "Jacob Cowing",
-    "Team": "SF",
-    "Position": "WR",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "Jacob Cowing",
+    "team": "SF",
+    "position": "WR",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Josh Oliver",
-    "Team": "MIN",
-    "Position": "TE",
-    "Bye Week": 6,
-    "Rookie": "no"
+    "name": "Josh Oliver",
+    "team": "MIN",
+    "position": "TE",
+    "byeWeek": 6,
+    "rookie": "no"
   },
   {
-    "Name": "Cade Stover",
-    "Team": "HOU",
-    "Position": "TE",
-    "Bye Week": 6,
-    "Rookie": "no"
+    "name": "Cade Stover",
+    "team": "HOU",
+    "position": "TE",
+    "byeWeek": 6,
+    "rookie": "no"
   },
   {
-    "Name": "Malachi Corley",
-    "Team": "NYJ",
-    "Position": "WR",
-    "Bye Week": 9,
-    "Rookie": "no"
+    "name": "Malachi Corley",
+    "team": "NYJ",
+    "position": "WR",
+    "byeWeek": 9,
+    "rookie": "no"
   },
   {
-    "Name": "Aidan O'Connell",
-    "Team": "LV",
-    "Position": "QB",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Aidan O'Connell",
+    "team": "LV",
+    "position": "QB",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Kyle Juszczyk",
-    "Team": "SF",
-    "Position": "RB",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "Kyle Juszczyk",
+    "team": "SF",
+    "position": "RB",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Nick Folk",
-    "Team": "FA",
-    "Position": "K0",
-    "Bye Week": "",
-    "Rookie": "no"
+    "name": "Nick Folk",
+    "team": "FA",
+    "position": "K0",
+    "byeWeek": "",
+    "rookie": "no"
   },
   {
-    "Name": "Will Howard",
-    "Team": "PIT",
-    "Position": "QB",
-    "Bye Week": 5,
-    "Rookie": "no"
+    "name": "Will Howard",
+    "team": "PIT",
+    "position": "QB",
+    "byeWeek": 5,
+    "rookie": "no"
   },
   {
-    "Name": "Clyde Edwards-Helaire",
-    "Team": "NO",
-    "Position": "RB",
-    "Bye Week": 11,
-    "Rookie": "no"
+    "name": "Clyde Edwards-Helaire",
+    "team": "NO",
+    "position": "RB",
+    "byeWeek": 11,
+    "rookie": "no"
   },
   {
-    "Name": "Kenny McIntosh",
-    "Team": "SEA",
-    "Position": "RB",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Kenny McIntosh",
+    "team": "SEA",
+    "position": "RB",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "AJ Barner",
-    "Team": "SEA",
-    "Position": "TE",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "AJ Barner",
+    "team": "SEA",
+    "position": "TE",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Kalif Raymond",
-    "Team": "DET",
-    "Position": "WR",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Kalif Raymond",
+    "team": "DET",
+    "position": "WR",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Grant Calcaterra",
-    "Team": "PHI",
-    "Position": "TE",
-    "Bye Week": 9,
-    "Rookie": "no"
+    "name": "Grant Calcaterra",
+    "team": "PHI",
+    "position": "TE",
+    "byeWeek": 9,
+    "rookie": "no"
   },
   {
-    "Name": "KeAndre Lambert-Smith",
-    "Team": "LAC",
-    "Position": "WR",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "KeAndre Lambert-Smith",
+    "team": "LAC",
+    "position": "WR",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Treylon Burks",
-    "Team": "TEN",
-    "Position": "WR",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "Treylon Burks",
+    "team": "TEN",
+    "position": "WR",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "Josh Whyle",
-    "Team": "TEN",
-    "Position": "TE",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "Josh Whyle",
+    "team": "TEN",
+    "position": "TE",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "Las Vegas Raiders",
-    "Team": "LV",
-    "Position": "DEF",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Las Vegas Raiders",
+    "team": "LV",
+    "position": "DEF",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "JuJu Smith-Schuster",
-    "Team": "KC",
-    "Position": "WR",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "JuJu Smith-Schuster",
+    "team": "KC",
+    "position": "WR",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "Zay Jones",
-    "Team": "ARI",
-    "Position": "WR",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Zay Jones",
+    "team": "ARI",
+    "position": "WR",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Chris Tyree",
-    "Team": "NO",
-    "Position": "RB",
-    "Bye Week": 11,
-    "Rookie": "no"
+    "name": "Chris Tyree",
+    "team": "NO",
+    "position": "RB",
+    "byeWeek": 11,
+    "rookie": "no"
   },
   {
-    "Name": "Julius Chestnut",
-    "Team": "TEN",
-    "Position": "RB",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "Julius Chestnut",
+    "team": "TEN",
+    "position": "RB",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "Joe Milton III",
-    "Team": "DAL",
-    "Position": "QB",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "Joe Milton III",
+    "team": "DAL",
+    "position": "QB",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "Alec Ingold",
-    "Team": "MIA",
-    "Position": "RB",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Alec Ingold",
+    "team": "MIA",
+    "position": "RB",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Deuce Vaughn",
-    "Team": "DAL",
-    "Position": "RB",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "Deuce Vaughn",
+    "team": "DAL",
+    "position": "RB",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "Javon Baker",
-    "Team": "NE",
-    "Position": "WR",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "Javon Baker",
+    "team": "NE",
+    "position": "WR",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Zach Wilson",
-    "Team": "MIA",
-    "Position": "QB",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Zach Wilson",
+    "team": "MIA",
+    "position": "QB",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Tyler Goodson",
-    "Team": "IND",
-    "Position": "RB",
-    "Bye Week": 11,
-    "Rookie": "no"
+    "name": "Tyler Goodson",
+    "team": "IND",
+    "position": "RB",
+    "byeWeek": 11,
+    "rookie": "no"
   },
   {
-    "Name": "Mitchell Evans",
-    "Team": "CAR",
-    "Position": "TE",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "Mitchell Evans",
+    "team": "CAR",
+    "position": "TE",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "C.J. Ham",
-    "Team": "MIN",
-    "Position": "RB",
-    "Bye Week": 6,
-    "Rookie": "no"
+    "name": "C.J. Ham",
+    "team": "MIN",
+    "position": "RB",
+    "byeWeek": 6,
+    "rookie": "no"
   },
   {
-    "Name": "Patrick Taylor Jr.",
-    "Team": "SF",
-    "Position": "RB",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "Patrick Taylor Jr.",
+    "team": "SF",
+    "position": "RB",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Marcus Mariota",
-    "Team": "WAS",
-    "Position": "QB",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Marcus Mariota",
+    "team": "WAS",
+    "position": "QB",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "KhaDarel Hodge",
-    "Team": "ATL",
-    "Position": "WR",
-    "Bye Week": 5,
-    "Rookie": "no"
+    "name": "KhaDarel Hodge",
+    "team": "ATL",
+    "position": "WR",
+    "byeWeek": 5,
+    "rookie": "no"
   },
   {
-    "Name": "Jonathan Mingo",
-    "Team": "DAL",
-    "Position": "WR",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "Jonathan Mingo",
+    "team": "DAL",
+    "position": "WR",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "Dylan Laube",
-    "Team": "LV",
-    "Position": "RB",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Dylan Laube",
+    "team": "LV",
+    "position": "RB",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Greg Dulcich",
-    "Team": "NYG",
-    "Position": "TE",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "Greg Dulcich",
+    "team": "NYG",
+    "position": "TE",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Tyler Badie",
-    "Team": "DEN",
-    "Position": "RB",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Tyler Badie",
+    "team": "DEN",
+    "position": "RB",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Marcus Yarns",
-    "Team": "NO",
-    "Position": "RB",
-    "Bye Week": 11,
-    "Rookie": "no"
+    "name": "Marcus Yarns",
+    "team": "NO",
+    "position": "RB",
+    "byeWeek": 11,
+    "rookie": "no"
   },
   {
-    "Name": "Michael Carter",
-    "Team": "ARI",
-    "Position": "RB",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Michael Carter",
+    "team": "ARI",
+    "position": "RB",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Darnell Washington",
-    "Team": "PIT",
-    "Position": "TE",
-    "Bye Week": 5,
-    "Rookie": "no"
+    "name": "Darnell Washington",
+    "team": "PIT",
+    "position": "TE",
+    "byeWeek": 5,
+    "rookie": "no"
   },
   {
-    "Name": "Dare Ogunbowale",
-    "Team": "HOU",
-    "Position": "RB",
-    "Bye Week": 6,
-    "Rookie": "no"
+    "name": "Dare Ogunbowale",
+    "team": "HOU",
+    "position": "RB",
+    "byeWeek": 6,
+    "rookie": "no"
   },
   {
-    "Name": "Michael Gallup",
-    "Team": "WAS",
-    "Position": "WR",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Michael Gallup",
+    "team": "WAS",
+    "position": "WR",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Efton Chism III",
-    "Team": "NE",
-    "Position": "WR",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "Efton Chism III",
+    "team": "NE",
+    "position": "WR",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Rasheen Ali",
-    "Team": "BAL",
-    "Position": "RB",
-    "Bye Week": 7,
-    "Rookie": "no"
+    "name": "Rasheen Ali",
+    "team": "BAL",
+    "position": "RB",
+    "byeWeek": 7,
+    "rookie": "no"
   },
   {
-    "Name": "Kaden Prather",
-    "Team": "BUF",
-    "Position": "WR",
-    "Bye Week": 7,
-    "Rookie": "no"
+    "name": "Kaden Prather",
+    "team": "BUF",
+    "position": "WR",
+    "byeWeek": 7,
+    "rookie": "no"
   },
   {
-    "Name": "Jake Bobo",
-    "Team": "SEA",
-    "Position": "WR",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Jake Bobo",
+    "team": "SEA",
+    "position": "WR",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Julian Hill",
-    "Team": "MIA",
-    "Position": "TE",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Julian Hill",
+    "team": "MIA",
+    "position": "TE",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Devontez Walker",
-    "Team": "BAL",
-    "Position": "WR",
-    "Bye Week": 7,
-    "Rookie": "no"
+    "name": "Devontez Walker",
+    "team": "BAL",
+    "position": "WR",
+    "byeWeek": 7,
+    "rookie": "no"
   },
   {
-    "Name": "Brevin Jordan",
-    "Team": "HOU",
-    "Position": "TE",
-    "Bye Week": 6,
-    "Rookie": "no"
+    "name": "Brevin Jordan",
+    "team": "HOU",
+    "position": "TE",
+    "byeWeek": 6,
+    "rookie": "no"
   },
   {
-    "Name": "Ezekiel Elliott",
-    "Team": "FA",
-    "Position": "RB",
-    "Bye Week": "",
-    "Rookie": "no"
+    "name": "Ezekiel Elliott",
+    "team": "FA",
+    "position": "RB",
+    "byeWeek": "",
+    "rookie": "no"
   },
   {
-    "Name": "Bub Means",
-    "Team": "NO",
-    "Position": "WR",
-    "Bye Week": 11,
-    "Rookie": "no"
+    "name": "Bub Means",
+    "team": "NO",
+    "position": "WR",
+    "byeWeek": 11,
+    "rookie": "no"
   },
   {
-    "Name": "Hunter Renfrow",
-    "Team": "CAR",
-    "Position": "WR",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "Hunter Renfrow",
+    "team": "CAR",
+    "position": "WR",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Carson Steele",
-    "Team": "KC",
-    "Position": "RB",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "Carson Steele",
+    "team": "KC",
+    "position": "RB",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "Luke Lachey",
-    "Team": "HOU",
-    "Position": "TE",
-    "Bye Week": 6,
-    "Rookie": "no"
+    "name": "Luke Lachey",
+    "team": "HOU",
+    "position": "TE",
+    "byeWeek": 6,
+    "rookie": "no"
   },
   {
-    "Name": "Pharaoh Brown",
-    "Team": "MIA",
-    "Position": "TE",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Pharaoh Brown",
+    "team": "MIA",
+    "position": "TE",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Sam Howell",
-    "Team": "MIN",
-    "Position": "QB",
-    "Bye Week": 6,
-    "Rookie": "no"
+    "name": "Sam Howell",
+    "team": "MIN",
+    "position": "QB",
+    "byeWeek": 6,
+    "rookie": "no"
   },
   {
-    "Name": "Tyler Johnson",
-    "Team": "NYJ",
-    "Position": "WR",
-    "Bye Week": 9,
-    "Rookie": "no"
+    "name": "Tyler Johnson",
+    "team": "NYJ",
+    "position": "WR",
+    "byeWeek": 9,
+    "rookie": "no"
   },
   {
-    "Name": "David Moore",
-    "Team": "CAR",
-    "Position": "WR",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "David Moore",
+    "team": "CAR",
+    "position": "WR",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Jordan Watkins",
-    "Team": "SF",
-    "Position": "WR",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "Jordan Watkins",
+    "team": "SF",
+    "position": "WR",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Malik Willis",
-    "Team": "GB",
-    "Position": "QB",
-    "Bye Week": 5,
-    "Rookie": "no"
+    "name": "Malik Willis",
+    "team": "GB",
+    "position": "QB",
+    "byeWeek": 5,
+    "rookie": "no"
   },
   {
-    "Name": "Elijah Higgins",
-    "Team": "ARI",
-    "Position": "TE",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Elijah Higgins",
+    "team": "ARI",
+    "position": "TE",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Rondale Moore",
-    "Team": "MIN",
-    "Position": "WR",
-    "Bye Week": 6,
-    "Rookie": "no"
+    "name": "Rondale Moore",
+    "team": "MIN",
+    "position": "WR",
+    "byeWeek": 6,
+    "rookie": "no"
   },
   {
-    "Name": "Hassan Haskins",
-    "Team": "LAC",
-    "Position": "RB",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Hassan Haskins",
+    "team": "LAC",
+    "position": "RB",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Colby Parkinson",
-    "Team": "LAR",
-    "Position": "TE",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Colby Parkinson",
+    "team": "LAR",
+    "position": "TE",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Mo Alie-Cox",
-    "Team": "IND",
-    "Position": "TE",
-    "Bye Week": 11,
-    "Rookie": "no"
+    "name": "Mo Alie-Cox",
+    "team": "IND",
+    "position": "TE",
+    "byeWeek": 11,
+    "rookie": "no"
   },
   {
-    "Name": "Jaydn Ott",
-    "Team": "FA",
-    "Position": "RB",
-    "Bye Week": "",
-    "Rookie": "no"
+    "name": "Jaydn Ott",
+    "team": "FA",
+    "position": "RB",
+    "byeWeek": "",
+    "rookie": "no"
   },
   {
-    "Name": "Jeremy Ruckert",
-    "Team": "NYJ",
-    "Position": "TE",
-    "Bye Week": 9,
-    "Rookie": "no"
+    "name": "Jeremy Ruckert",
+    "team": "NYJ",
+    "position": "TE",
+    "byeWeek": 9,
+    "rookie": "no"
   },
   {
-    "Name": "Kylen Granson",
-    "Team": "PHI",
-    "Position": "TE",
-    "Bye Week": 9,
-    "Rookie": "no"
+    "name": "Kylen Granson",
+    "team": "PHI",
+    "position": "TE",
+    "byeWeek": 9,
+    "rookie": "no"
   },
   {
-    "Name": "Frank Gore Jr.",
-    "Team": "BUF",
-    "Position": "RB",
-    "Bye Week": 7,
-    "Rookie": "no"
+    "name": "Frank Gore Jr.",
+    "team": "BUF",
+    "position": "RB",
+    "byeWeek": 7,
+    "rookie": "no"
   },
   {
-    "Name": "Michael Woods II",
-    "Team": "CLE",
-    "Position": "WR",
-    "Bye Week": 9,
-    "Rookie": "no"
+    "name": "Michael Woods II",
+    "team": "CLE",
+    "position": "WR",
+    "byeWeek": 9,
+    "rookie": "no"
   },
   {
-    "Name": "Ronnie Rivers",
-    "Team": "LAR",
-    "Position": "RB",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Ronnie Rivers",
+    "team": "LAR",
+    "position": "RB",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Pierre Strong Jr.",
-    "Team": "CLE",
-    "Position": "RB",
-    "Bye Week": 9,
-    "Rookie": "no"
+    "name": "Pierre Strong Jr.",
+    "team": "CLE",
+    "position": "RB",
+    "byeWeek": 9,
+    "rookie": "no"
   },
   {
-    "Name": "Derius Davis",
-    "Team": "LAC",
-    "Position": "WR",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Derius Davis",
+    "team": "LAC",
+    "position": "WR",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Adam Trautman",
-    "Team": "DEN",
-    "Position": "TE",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "Adam Trautman",
+    "team": "DEN",
+    "position": "TE",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Daniel Bellinger",
-    "Team": "NYG",
-    "Position": "TE",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "Daniel Bellinger",
+    "team": "NYG",
+    "position": "TE",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Lan Larison",
-    "Team": "NE",
-    "Position": "RB",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "Lan Larison",
+    "team": "NE",
+    "position": "RB",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Payne Durham",
-    "Team": "TB",
-    "Position": "TE",
-    "Bye Week": 9,
-    "Rookie": "no"
+    "name": "Payne Durham",
+    "team": "TB",
+    "position": "TE",
+    "byeWeek": 9,
+    "rookie": "no"
   },
   {
-    "Name": "Jimmy Horn Jr.",
-    "Team": "CAR",
-    "Position": "WR",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "Jimmy Horn Jr.",
+    "team": "CAR",
+    "position": "WR",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Brock Wright",
-    "Team": "DET",
-    "Position": "TE",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Brock Wright",
+    "team": "DET",
+    "position": "TE",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Tyrod Taylor",
-    "Team": "NYJ",
-    "Position": "QB",
-    "Bye Week": 9,
-    "Rookie": "no"
+    "name": "Tyrod Taylor",
+    "team": "NYJ",
+    "position": "QB",
+    "byeWeek": 9,
+    "rookie": "no"
   },
   {
-    "Name": "Jelani Woods",
-    "Team": "IND",
-    "Position": "TE",
-    "Bye Week": 11,
-    "Rookie": "no"
+    "name": "Jelani Woods",
+    "team": "IND",
+    "position": "TE",
+    "byeWeek": 11,
+    "rookie": "no"
   },
   {
-    "Name": "Harrison Bryant",
-    "Team": "PHI",
-    "Position": "TE",
-    "Bye Week": 9,
-    "Rookie": "no"
+    "name": "Harrison Bryant",
+    "team": "PHI",
+    "position": "TE",
+    "byeWeek": 9,
+    "rookie": "no"
   },
   {
-    "Name": "Mecole Hardman Jr.",
-    "Team": "GB",
-    "Position": "WR",
-    "Bye Week": 5,
-    "Rookie": "no"
+    "name": "Mecole Hardman Jr.",
+    "team": "GB",
+    "position": "WR",
+    "byeWeek": 5,
+    "rookie": "no"
   },
   {
-    "Name": "Cedrick Wilson Jr.",
-    "Team": "NO",
-    "Position": "WR",
-    "Bye Week": 11,
-    "Rookie": "no"
+    "name": "Cedrick Wilson Jr.",
+    "team": "NO",
+    "position": "WR",
+    "byeWeek": 11,
+    "rookie": "no"
   },
   {
-    "Name": "Sione Vaki",
-    "Team": "DET",
-    "Position": "RB",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Sione Vaki",
+    "team": "DET",
+    "position": "RB",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Mac Jones",
-    "Team": "SF",
-    "Position": "QB",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "Mac Jones",
+    "team": "SF",
+    "position": "QB",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Cooper Rush",
-    "Team": "BAL",
-    "Position": "QB",
-    "Bye Week": 7,
-    "Rookie": "no"
+    "name": "Cooper Rush",
+    "team": "BAL",
+    "position": "QB",
+    "byeWeek": 7,
+    "rookie": "no"
   },
   {
-    "Name": "Israel Abanikanda",
-    "Team": "SF",
-    "Position": "RB",
-    "Bye Week": 14,
-    "Rookie": "no"
+    "name": "Israel Abanikanda",
+    "team": "SF",
+    "position": "RB",
+    "byeWeek": 14,
+    "rookie": "no"
   },
   {
-    "Name": "Amar Johnson",
-    "Team": "GB",
-    "Position": "RB",
-    "Bye Week": 5,
-    "Rookie": "no"
+    "name": "Amar Johnson",
+    "team": "GB",
+    "position": "RB",
+    "byeWeek": 5,
+    "rookie": "no"
   },
   {
-    "Name": "John Bates",
-    "Team": "WAS",
-    "Position": "TE",
-    "Bye Week": 12,
-    "Rookie": "no"
+    "name": "John Bates",
+    "team": "WAS",
+    "position": "TE",
+    "byeWeek": 12,
+    "rookie": "no"
   },
   {
-    "Name": "Ricky White III",
-    "Team": "SEA",
-    "Position": "WR",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "Ricky White III",
+    "team": "SEA",
+    "position": "WR",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Jake Browning",
-    "Team": "CIN",
-    "Position": "QB",
-    "Bye Week": 10,
-    "Rookie": "no"
+    "name": "Jake Browning",
+    "team": "CIN",
+    "position": "QB",
+    "byeWeek": 10,
+    "rookie": "no"
   },
   {
-    "Name": "DeeJay Dallas",
-    "Team": "ARI",
-    "Position": "RB",
-    "Bye Week": 8,
-    "Rookie": "no"
+    "name": "DeeJay Dallas",
+    "team": "ARI",
+    "position": "RB",
+    "byeWeek": 8,
+    "rookie": "no"
   },
   {
-    "Name": "Justin Watson",
-    "Team": "HOU",
-    "Position": "WR",
-    "Bye Week": 6,
-    "Rookie": "no"
+    "name": "Justin Watson",
+    "team": "HOU",
+    "position": "WR",
+    "byeWeek": 6,
+    "rookie": "no"
   }
 ]
