@@ -368,7 +368,7 @@
     "team": "LAC",
     "position": "RB",
     "byeWeek": 12,
-    "rookie": false
+    "rookie": true
   },
   {
     "name": "Sam LaPorta",
@@ -438,7 +438,7 @@
     "team": "PIT",
     "position": "RB",
     "byeWeek": 5,
-    "rookie": false
+    "rookie": true
   },
   {
     "name": "Aaron Jones Sr.",
@@ -501,7 +501,7 @@
     "team": "CAR",
     "position": "WR",
     "byeWeek": 14,
-    "rookie": false
+    "rookie": true
   },
   {
     "name": "Brian Robinson Jr.",
@@ -522,7 +522,7 @@
     "team": "JAC",
     "position": "WR",
     "byeWeek": 8,
-    "rookie": false
+    "rookie": true
   },
   {
     "name": "Bo Nix",
@@ -774,14 +774,14 @@
     "team": "NYG",
     "position": "RB",
     "byeWeek": 14,
-    "rookie": false
+    "rookie": true
   },
   {
     "name": "Tyler Warren",
     "team": "IND",
     "position": "TE",
     "byeWeek": 11,
-    "rookie": false
+    "rookie": true
   },
   {
     "name": "Dalton Kincaid",
@@ -907,7 +907,7 @@
     "team": "GB",
     "position": "WR",
     "byeWeek": 5,
-    "rookie": false
+    "rookie": true
   },
   {
     "name": "Matthew Stafford",
@@ -970,7 +970,7 @@
     "team": "CHI",
     "position": "TE",
     "byeWeek": 5,
-    "rookie": false
+    "rookie": true
   },
   {
     "name": "Marvin Mims Jr.",
@@ -991,7 +991,7 @@
     "team": "TB",
     "position": "WR",
     "byeWeek": 9,
-    "rookie": false
+    "rookie": true
   },
   {
     "name": "Christian Kirk",
@@ -1040,21 +1040,21 @@
     "team": "JAC",
     "position": "RB",
     "byeWeek": 8,
-    "rookie": false
+    "rookie": true
   },
   {
     "name": "Luther Burden III",
     "team": "CHI",
     "position": "WR",
     "byeWeek": 5,
-    "rookie": false
+    "rookie": true
   },
   {
     "name": "Jaydon Blue",
     "team": "DAL",
     "position": "RB",
     "byeWeek": 10,
-    "rookie": false
+    "rookie": true
   },
   {
     "name": "Braelon Allen",
@@ -1131,7 +1131,7 @@
     "team": "LAC",
     "position": "WR",
     "byeWeek": 12,
-    "rookie": false
+    "rookie": true
   },
   {
     "name": "Denver Broncos",
@@ -1173,7 +1173,7 @@
     "team": "NE",
     "position": "WR",
     "byeWeek": 14,
-    "rookie": false
+    "rookie": true
   },
   {
     "name": "Adam Thielen",
@@ -1208,7 +1208,7 @@
     "team": "HOU",
     "position": "WR",
     "byeWeek": 6,
-    "rookie": false
+    "rookie": true
   },
   {
     "name": "Jerome Ford",
@@ -1306,14 +1306,14 @@
     "team": "TEN",
     "position": "QB",
     "byeWeek": 10,
-    "rookie": false
+    "rookie": true
   },
   {
     "name": "Dylan Sampson",
     "team": "CLE",
     "position": "RB",
     "byeWeek": 9,
-    "rookie": false
+    "rookie": true
   },
   {
     "name": "Kareem Hunt",
@@ -1383,14 +1383,14 @@
     "team": "IND",
     "position": "RB",
     "byeWeek": 11,
-    "rookie": false
+    "rookie": true
   },
   {
     "name": "Jack Bech",
     "team": "LV",
     "position": "WR",
     "byeWeek": 8,
-    "rookie": false
+    "rookie": true
   },
   {
     "name": "Brenton Strange",
@@ -1551,7 +1551,7 @@
     "team": "NYJ",
     "position": "TE",
     "byeWeek": 9,
-    "rookie": false
+    "rookie": true
   },
   {
     "name": "Audric Estime",
@@ -1715,11 +1715,11 @@
     "rookie": false
   },
   {
-    "name": "Elic Ayomafalser",
+    "name": "Elic Ayomanor",
     "team": "TEN",
     "position": "WR",
     "byeWeek": 10,
-    "rookie": false
+    "rookie": true
   },
   {
     "name": "Russell Wilson",
@@ -1740,14 +1740,14 @@
     "team": "DEN",
     "position": "WR",
     "byeWeek": 12,
-    "rookie": false
+    "rookie": true
   },
   {
     "name": "Jarquez Hunter",
     "team": "LAR",
     "position": "RB",
     "byeWeek": 8,
-    "rookie": false
+    "rookie": true
   },
   {
     "name": "Kayshon Boutte",
@@ -1831,7 +1831,7 @@
     "team": "SEA",
     "position": "TE",
     "byeWeek": 8,
-    "rookie": false
+    "rookie": true
   },
   {
     "name": "Tahj Brooks",
@@ -1866,7 +1866,7 @@
     "team": "KC",
     "position": "WR",
     "byeWeek": 10,
-    "rookie": false
+    "rookie": true
   },
   {
     "name": "Dyami Brown",
@@ -1929,7 +1929,7 @@
     "team": "CLE",
     "position": "TE",
     "byeWeek": 9,
-    "rookie": false
+    "rookie": true
   },
   {
     "name": "falseah Fant",
@@ -2076,7 +2076,7 @@
     "team": "LAR",
     "position": "TE",
     "byeWeek": 8,
-    "rookie": false
+    "rookie": true
   },
   {
     "name": "Sincere McCormick",
@@ -2111,7 +2111,7 @@
     "team": "NYG",
     "position": "QB",
     "byeWeek": 14,
-    "rookie": false
+    "rookie": true
   },
   {
     "name": "Damien Martinez",
@@ -2230,7 +2230,7 @@
     "team": "CLE",
     "position": "QB",
     "byeWeek": 9,
-    "rookie": false
+    "rookie": true
   },
   {
     "name": "Chris Rodriguez Jr.",
@@ -2356,7 +2356,7 @@
     "team": "SEA",
     "position": "QB",
     "byeWeek": 8,
-    "rookie": false
+    "rookie": true
   },
   {
     "name": "Demarcus Robinson",
@@ -2769,7 +2769,7 @@
     "team": "CLE",
     "position": "QB",
     "byeWeek": 9,
-    "rookie": false
+    "rookie": true
   },
   {
     "name": "Arian Smith",
@@ -2923,7 +2923,7 @@
     "team": "PIT",
     "position": "QB",
     "byeWeek": 5,
-    "rookie": false
+    "rookie": true
   },
   {
     "name": "Clyde Edwards-Helaire",
